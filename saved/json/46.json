@@ -1,0 +1,47 @@
+{
+  "name": "CryptoHunkz #46",
+  "description": "7777 randomly generated CryptoHunkz coming to ",
+  "image": "ipfs://NewUriToReplace/46.png",
+  "dna": "6b32cfd1293f6bd5ff69429747fb2de4f842b2ac",
+  "edition": 46,
+  "date": 1644258031689,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background_Eden"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Accessory_Nothing"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Neck_Nothing"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Torso_LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hair_Dreads"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Facial_FiveOclock"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes_PitVipersOrange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth_Nothing"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

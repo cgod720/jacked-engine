@@ -5,36 +5,67 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "Your Collection";
-const description = "Remember to replace this description";
+const namePrefix = "CryptoHunkz";
+const description = "7777 randomly generated CryptoHunkz coming to ";
 const baseUri = "ipfs://NewUriToReplace";
 
-const solanaMetadata = {
-  symbol: "YC",
-  seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
-  external_url: "https://www.youtube.com/c/hashlipsnft",
-  creators: [
-    {
-      address: "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
-      share: 100,
-    },
-  ],
-};
 
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 5,
+    growEditionSizeTo: 1,
     layersOrder: [
-      { name: "Background" },
-      { name: "Eyeball" },
-      { name: "Eye color" },
-      { name: "Iris" },
-      { name: "Shine" },
-      { name: "Bottom lid" },
-      { name: "Top lid" },
+      { name: "Legendary" },
     ],
   },
+  {
+    growEditionSizeTo: 61,
+    layersOrder: [
+      { name: "Background" },
+      { name: "Body" },
+      { name: "Accessory" },
+      { name: "Neck" },
+      { name: "Torso" },
+      { name: "Facial Hair" },
+      { name: "Head" },
+      { name: "Eyes" },
+      { name: "Mouth" }
+    ],
+  },
+  {
+    growEditionSizeTo: 69,
+    layersOrder: [
+      { name: "Background" },
+      { name: "Body" },
+      { name: "Accessory" },
+      { name: "Neck" },
+      { name: "Torso" },
+      { name: "Mask" },
+      { name: "Head" },
+      { name: "Eyes" },
+    ],
+  },
+  {
+    growEditionSizeTo: 87,
+    layersOrder: [
+      { name: "Background" },
+      { name: "Body" },
+      { name: "Eyes" },
+      { name: "Facial Hair"},
+      { name: "Hoodie"},
+      { name: "Mouth" }
+    ]
+  },
+  {
+    growEditionSizeTo: 100,
+    layersOrder: [
+      { name: "Background" },
+      { name: "Body" },
+      { name: "Mask" },
+      { name: "Eyes" },
+      { name: "Hoodie"},
+    ]
+  }
 ];
 
 const shuffleLayerConfigurations = false;
@@ -42,8 +73,8 @@ const shuffleLayerConfigurations = false;
 const debugLogs = false;
 
 const format = {
-  width: 512,
-  height: 512,
+  width: 720,
+  height: 720,
   smoothing: false,
 };
 
@@ -116,7 +147,6 @@ module.exports = {
   text,
   namePrefix,
   network,
-  solanaMetadata,
   gif,
   preview_gif,
 };

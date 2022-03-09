@@ -1,0 +1,43 @@
+{
+  "name": "CryptoHunkz #55",
+  "description": "7777 randomly generated CryptoHunkz coming to ",
+  "image": "ipfs://NewUriToReplace/55.png",
+  "dna": "3c3142f6c028fa820b7e7f87f0c27b8fff0789e6",
+  "edition": 55,
+  "date": 1644423035657,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background_Eden"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Accessory_Nothing"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Neck_Nothing"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Torso_HenleyRed"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Scorpion"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hair_WinterHatRed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes_Logan"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

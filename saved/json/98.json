@@ -1,0 +1,31 @@
+{
+  "name": "CryptoHunkz #98",
+  "description": "7777 randomly generated CryptoHunkz coming to ",
+  "image": "ipfs://NewUriToReplace/98.png",
+  "dna": "0a8b250f0fe0db91d576c69ec8fdb9d8cc290173",
+  "edition": 98,
+  "date": 1646347064659,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Alien"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "RobbersBandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pit Vipers"
+    },
+    {
+      "trait_type": "Hoodie",
+      "value": "Black"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

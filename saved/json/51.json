@@ -1,0 +1,47 @@
+{
+  "name": "CryptoHunkz #51",
+  "description": "7777 randomly generated CryptoHunkz coming to ",
+  "image": "ipfs://NewUriToReplace/51.png",
+  "dna": "9c7f7e5d937b18a66b7f6d35cdd83c22184a8796",
+  "edition": 51,
+  "date": 1645821973531,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Soundboard"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Airpods"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Neck_Nothing"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Torso_Racer Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hair_Ryu"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Facial_Mouth_Nothing"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wayfarers"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth_Toothpick"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
