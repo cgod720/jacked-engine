@@ -24,8 +24,9 @@ const shuffle = () => {
                 
                 // Push random metadata to new array
                 newArr.push(tempData.splice(random, 1))
-                console.log(`${basePath}/build/images/${newArr[i][0].edition}.png`)
+                // console.log(`${basePath}/build/images/${newArr[i][0].edition}.png`)
 
+                // Copy image to new location to be in order
                 fs.copyFile(`${basePath}/build/images/${newArr[i][0].edition}.png`, `${basePath}/build/sortedImages/${i + 1}.png`, fs.constants.COPYFILE_EXCL, (err) => {
                     if(err) console.error(err)
                     else console.log('success yoooo')
@@ -38,12 +39,18 @@ const shuffle = () => {
                 newArr[i][0].image = `ipfs://NewUriToReplace/${i + 1}.png`
                 // -------------------------------------------------------
 
+                // Create individual JSON files w new metadata
+                fs.writeFile(`${basePath}/build/sortedJson/${newArr[i][0].edition}.json`, JSON.stringify(newArr[i][0]), 'utf8', (err) => {
+                    if(err) console.log(err)
+                    else console.log('new json file added')
+                })
+
                 
             }
             // console.log(tempData, '\n------')
             // console.log(data[i])
             // console.log(newArr.flat())
-            fs.writeFile('./newMetadata.json', JSON.stringify(newArr.flat()), 'utf8', (err) => {
+            fs.writeFile(`${basePath}/build/sortedJson/_newMetadata.json`, JSON.stringify(newArr.flat()), 'utf8', (err) => {
                 if(err) console.error(err)
                 else console.log('success madafuka')
             })
