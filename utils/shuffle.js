@@ -21,23 +21,36 @@ const shuffle = () => {
                 let random = Math.floor(Math.random() * tempData.length)
                 
                 
-            
-                // tempData[i].edition = i + 1
-                // tempData[i].image = `ipfs://NewUriToReplace/${i + 1}.png`
+                
+                // Push random metadata to new array
                 newArr.push(tempData.splice(random, 1))
+                console.log(`${basePath}/build/images/${newArr[i][0].edition}.png`)
+
+                fs.copyFile(`${basePath}/build/images/${newArr[i][0].edition}.png`, `${basePath}/build/sortedImages/${i + 1}.png`, fs.constants.COPYFILE_EXCL, (err) => {
+                    if(err) console.error(err)
+                    else console.log('success yoooo')
+                })
+
+                // Sort metadata
+                //--------------------------------------------------------
                 newArr[i][0].name = `CryptoHunkz #${i + 1}`
                 newArr[i][0].edition = i + 1
                 newArr[i][0].image = `ipfs://NewUriToReplace/${i + 1}.png`
+                // -------------------------------------------------------
 
                 
             }
             // console.log(tempData, '\n------')
             // console.log(data[i])
             // console.log(newArr.flat())
-            fs.writeFile('./newMetadata.json', JSON.stringify(newArr), 'utf8', (err) => {
+            fs.writeFile('./newMetadata.json', JSON.stringify(newArr.flat()), 'utf8', (err) => {
                 if(err) console.error(err)
                 else console.log('success madafuka')
             })
+
+            // console.log(`${basePath}/build/images/${random}.png`)
+            // fs.copyFile()
+
         }
     })
 }
