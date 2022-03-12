@@ -26,8 +26,8 @@ const layerConfigurations = [
       { name: "Accessory" },
       { name: "Neck" },
       { name: "Torso" },
-      { name: "Facial Hair" },
       { name: "Head" },
+      { name: "Facial Hair" },
       { name: "Eyes" },
       { name: "Mouth" }
     ],
