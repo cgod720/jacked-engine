@@ -43,8 +43,10 @@ const shuffle = () => {
                 
             }
 
+            
+
             // Create file w all updated metadata
-            fs.writeFile(`${basePath}/build/sortedJson/_newMetadata.json`, JSON.stringify(newArr.flat()), 'utf8', (err) => {
+            fs.writeFile(`${basePath}/build/sortedJson/_metadata.json`, JSON.stringify(newArr.flat()), 'utf8', (err) => {
                 if(err) console.error(err)
                 else console.log('success madafuka')
             })
