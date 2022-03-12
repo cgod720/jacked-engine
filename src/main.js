@@ -40,6 +40,8 @@ const buildSetup = () => {
   fs.mkdirSync(buildDir);
   fs.mkdirSync(`${buildDir}/json`);
   fs.mkdirSync(`${buildDir}/images`);
+  fs.mkdirSync(`${buildDir}/sortedImages`)
+  fs.mkdirSync(`${buildDir}/sortedJson`)
   if (gif.export) {
     fs.mkdirSync(`${buildDir}/gifs`);
   }

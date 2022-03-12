@@ -50,8 +50,8 @@ const layerConfigurations = [
     layersOrder: [
       { name: "Background" },
       { name: "Body" },
-      { name: "Eyes" },
       { name: "Facial Hair"},
+      { name: "Eyes" },
       { name: "Hoodie"},
       { name: "Mouth" }
     ]
