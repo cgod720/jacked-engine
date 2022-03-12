@@ -22,17 +22,28 @@ const shuffle = () => {
                 // Push random metadata to new array
                 newArr.push(tempData.splice(random, 1))
 
-
+                
                 // Copy image to new location to be in order
-                fs.copyFile(`${inputDir}/${newArr[i][0].edition}.png`, `${basePath}/build/sortedImages/${i + 1}.png`, fs.constants.COPYFILE_EXCL, (err) => {
-                    if(err) console.error(err)
-                })
+                if(fs.existsSync(`${inputDir}/${newArr[i][0].edition}.gif`)){
+                    fs.copyFile(`${inputDir}/${newArr[i][0].edition}.gif`, `${basePath}/build/sortedImages/${i + 1}.gif`, fs.constants.COPYFILE_EXCL, (err) => {
+                        if(err) console.error(err)
+                    })
+                    // Update URI to have appropriate extension
+                    newArr[i][0].image = `ipfs://NewUriToReplace/${i + 1}.gif`
+
+                } else {
+                    fs.copyFile(`${inputDir}/${newArr[i][0].edition}.png`, `${basePath}/build/sortedImages/${i + 1}.png`, fs.constants.COPYFILE_EXCL, (err) => {
+                        if(err) console.error(err)
+                    })
+
+                    newArr[i][0].image = `ipfs://NewUriToReplace/${i + 1}.png`
+
+                }
 
                 // Update metadata to be in order
                 //--------------------------------------------------------
                 newArr[i][0].name = `CryptoHunkz #${i + 1}`
                 newArr[i][0].edition = i + 1
-                newArr[i][0].image = `ipfs://NewUriToReplace/${i + 1}.png`
                 // -------------------------------------------------------
 
                 // Create individual JSON files w new metadata
@@ -42,8 +53,6 @@ const shuffle = () => {
 
                 
             }
-
-            
 
             // Create file w all updated metadata
             fs.writeFile(`${basePath}/build/sortedJson/_metadata.json`, JSON.stringify(newArr.flat()), 'utf8', (err) => {
