@@ -6,20 +6,20 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "CryptoHunkz";
-const description = "7777 randomly generated CryptoHunkz coming to ";
+const description = "7777 randomly generated CryptoHunkz coming to the Metaverse to chase the pump";
 const baseUri = "ipfs://NewUriToReplace";
 
 
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 1,
+    growEditionSizeTo: 7,
     layersOrder: [
       { name: "Legendary" },
     ],
   },
   {
-    growEditionSizeTo: 61,
+    growEditionSizeTo: 6556,
     layersOrder: [
       { name: "Background" },
       { name: "Body" },
@@ -33,7 +33,7 @@ const layerConfigurations = [
     ],
   },
   {
-    growEditionSizeTo: 69,
+    growEditionSizeTo: 7457,
     layersOrder: [
       { name: "Background" },
       { name: "Body" },
@@ -46,7 +46,7 @@ const layerConfigurations = [
     ],
   },
   {
-    growEditionSizeTo: 87,
+    growEditionSizeTo: 7707,
     layersOrder: [
       { name: "Background" },
       { name: "Body" },
@@ -57,7 +57,7 @@ const layerConfigurations = [
     ]
   },
   {
-    growEditionSizeTo: 100,
+    growEditionSizeTo: 7777,
     layersOrder: [
       { name: "Background" },
       { name: "Body" },

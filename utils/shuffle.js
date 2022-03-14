@@ -30,12 +30,20 @@ const shuffle = () => {
                     })
                     // Update URI to have appropriate extension
                     newArr[i][0].image = `ipfs://NewUriToReplace/${i + 1}.gif`
+                    newArr[i][0].attributes.push({
+                        "trait_type": "Animated",
+                        "value": "True"
+                    })
 
                 } else {
                     fs.copyFile(`${inputDir}/${newArr[i][0].edition}.png`, `${basePath}/build/sortedImages/${i + 1}.png`, fs.constants.COPYFILE_EXCL, (err) => {
                         if(err) console.error(err)
                     })
 
+                    newArr[i][0].attributes.push({
+                        "trait_type": "Animated",
+                        "value": "False"
+                    })
                     newArr[i][0].image = `ipfs://NewUriToReplace/${i + 1}.png`
 
                 }

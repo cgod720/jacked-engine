@@ -22,7 +22,11 @@ data.forEach((item) => {
   } else {
     item.name = `${namePrefix} #${item.edition}`;
     item.description = description;
-    item.image = `${baseUri}/${item.edition}.png`;
+    if(item.image.slice(-3) === 'gif'){
+      item.image = `${baseUri}/${item.edition}.gif`;
+    } else {
+      item.image = `${baseUri}/${item.edition}.png`;
+    }
   }
   fs.writeFileSync(
     `${basePath}/build/json/${item.edition}.json`,
