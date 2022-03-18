@@ -1,0 +1,42 @@
+{
+  "name": "CryptoHunkz #7264",
+  "description": "7777 randomly generated CryptoHunkz coming to the Metaverse to chase the pump",
+  "image": "ipfs://NewUriToReplace/7264.png",
+  "dna": "3155da5d2c63e61157cd2f2cd1eda1e5b75c341b",
+  "edition": 7264,
+  "date": 1647274625466,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Racer Jacket"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Scorpion"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scouter"
+    }
+  ]
+}

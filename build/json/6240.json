@@ -1,0 +1,46 @@
+{
+  "name": "CryptoHunkz #6240",
+  "description": "7777 randomly generated CryptoHunkz coming to the Metaverse to chase the pump",
+  "image": "ipfs://NewUriToReplace/6240.png",
+  "dna": "3a812dacc1c45664e9a3310bba72b974a4bde4d4",
+  "edition": 6240,
+  "date": 1647274578610,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Neon Palms"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Bone Tooth"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Tank Top"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Beanie"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "King James Long"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

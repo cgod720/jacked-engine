@@ -1,0 +1,46 @@
+{
+  "name": "CryptoHunkz #76",
+  "description": "7777 randomly generated CryptoHunkz coming to the Metaverse to chase the pump",
+  "image": "ipfs://NewUriToReplace/76.png",
+  "dna": "992beb6c1a34a1503790cc90f9c6a940eec6e1a0",
+  "edition": 76,
+  "date": 1647274287075,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Punkscape 5457"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Android"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Broly Scar"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Black Stringer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Beanie"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Logan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Toothpick"
+    }
+  ]
+}

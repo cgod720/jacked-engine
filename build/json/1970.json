@@ -1,0 +1,46 @@
+{
+  "name": "CryptoHunkz #1970",
+  "description": "7777 randomly generated CryptoHunkz coming to the Metaverse to chase the pump",
+  "image": "ipfs://NewUriToReplace/1970.png",
+  "dna": "15a215e048de82a84ae0e6ff287b07c22a1ff006",
+  "edition": 1970,
+  "date": 1647274378360,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rave Matrix"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Dog Tags"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Cyberpunk Sleeveless"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Jackson"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Blonde Mountain Man"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nothing"
+    }
+  ]
+}

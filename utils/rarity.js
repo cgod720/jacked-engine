@@ -80,3 +80,12 @@ for (var layer in rarityData) {
   }
   console.log();
 }
+
+const jsonRarityData = JSON.stringify(rarityData)
+
+setTimeout(() => {
+  fs.writeFile('./rarity.json', jsonRarityData, 'utf8', (err, data) => {
+    if(err) console.log(err)
+    else console.log('woo')
+  })
+}, 5000)
