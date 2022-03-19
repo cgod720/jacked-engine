@@ -72,20 +72,23 @@ for (var layer in rarityData) {
   }
 }
 
+
+
 // print out rarity data
-for (var layer in rarityData) {
-  console.log(`Trait type: ${layer}`);
-  for (var trait in rarityData[layer]) {
-    console.log(rarityData[layer][trait]);
-  }
-  console.log();
-}
+// for (var layer in rarityData) {
+//   console.log(`Trait type: ${layer}`);
+//   for (var trait in rarityData[layer]) {
+//     console.log(rarityData[layer][trait]);
+//   }
+//   console.log();  
+// }
 
-const jsonRarityData = JSON.stringify(rarityData)
 
-setTimeout(() => {
-  fs.writeFile('./rarity.json', jsonRarityData, 'utf8', (err, data) => {
-    if(err) console.log(err)
-    else console.log('woo')
-  })
-}, 5000)
+module.exports = { rarityData }
+
+
+
+
+
+
+

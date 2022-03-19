@@ -5,37 +5,44 @@
             {
                 "trait": "Blaze",
                 "weight": "1",
-                "occurrence": "1 in 7777 editions (0.01 %)"
+                "occurrence": "1",
+                "freq": "0.00013"
             },
             {
                 "trait": "Destroyer",
                 "weight": "1",
-                "occurrence": "1 in 7777 editions (0.01 %)"
+                "occurrence": "1",
+                "freq": "0.00013"
             },
             {
                 "trait": "Ghost",
                 "weight": "1",
-                "occurrence": "1 in 7777 editions (0.01 %)"
+                "occurrence": "1",
+                "freq": "0.00013"
             },
             {
                 "trait": "Oni Devil",
                 "weight": "1",
-                "occurrence": "1 in 7777 editions (0.01 %)"
+                "occurrence": "1",
+                "freq": "0.00013"
             },
             {
                 "trait": "Poseidon",
                 "weight": "1",
-                "occurrence": "1 in 7777 editions (0.01 %)"
+                "occurrence": "1",
+                "freq": "0.00013"
             },
             {
                 "trait": "Thor",
                 "weight": "1",
-                "occurrence": "1 in 7777 editions (0.01 %)"
+                "occurrence": "1",
+                "freq": "0.00013"
             },
             {
                 "trait": "Val HalETH",
                 "weight": "1",
-                "occurrence": "1 in 7777 editions (0.01 %)"
+                "occurrence": "1",
+                "freq": "0.00013"
             }
         ]
     },
@@ -45,67 +52,80 @@
             {
                 "trait": "American Flag",
                 "weight": "325",
-                "occurrence": "301 in 7777 editions (3.87 %)"
+                "occurrence": "301",
+                "freq": "0.03870"
             },
             {
                 "trait": "Black",
                 "weight": "800",
-                "occurrence": "810 in 7777 editions (10.42 %)"
+                "occurrence": "810",
+                "freq": "0.10415"
             },
             {
                 "trait": "Dark Grey",
                 "weight": "800",
-                "occurrence": "808 in 7777 editions (10.39 %)"
+                "occurrence": "808",
+                "freq": "0.10390"
             },
             {
                 "trait": "Eden",
                 "weight": "800",
-                "occurrence": "844 in 7777 editions (10.85 %)"
+                "occurrence": "844",
+                "freq": "0.10853"
             },
             {
                 "trait": "Greyscale",
                 "weight": "600",
-                "occurrence": "578 in 7777 editions (7.43 %)"
+                "occurrence": "578",
+                "freq": "0.07432"
             },
             {
                 "trait": "Neon Palms",
                 "weight": "800",
-                "occurrence": "796 in 7777 editions (10.24 %)"
+                "occurrence": "796",
+                "freq": "0.10235"
             },
             {
                 "trait": "Punkscape 5457",
                 "weight": "251",
-                "occurrence": "243 in 7777 editions (3.12 %)"
+                "occurrence": "243",
+                "freq": "0.03125"
             },
             {
                 "trait": "Punkscape 794",
                 "weight": "251",
-                "occurrence": "265 in 7777 editions (3.41 %)"
+                "occurrence": "265",
+                "freq": "0.03407"
             },
             {
                 "trait": "Purple Soundboard",
                 "weight": "600",
-                "occurrence": "629 in 7777 editions (8.09 %)"
+                "occurrence": "629",
+                "freq": "0.08088"
             },
             {
                 "trait": "Rave Matrix",
                 "weight": "600",
-                "occurrence": "564 in 7777 editions (7.25 %)"
+                "occurrence": "564",
+                "freq": "0.07252"
             },
             {
                 "trait": "Red Soundboard",
                 "weight": "600",
-                "occurrence": "570 in 7777 editions (7.33 %)"
+                "occurrence": "570",
+                "freq": "0.07329"
             },
             {
                 "trait": "Retro Squares",
                 "weight": "600",
-                "occurrence": "562 in 7777 editions (7.23 %)"
+                "occurrence": "562",
+                "freq": "0.07226"
             },
             {
                 "trait": "Synthwave",
                 "weight": "800",
-                "occurrence": "800 in 7777 editions (10.29 %)"
+                "occurrence": "800",
+                "freq": "0.10287"
             }
         ]
     },
@@ -115,32 +135,38 @@
             {
                 "trait": "Alien",
                 "weight": "300",
-                "occurrence": "307 in 7777 editions (3.95 %)"
+                "occurrence": "307",
+                "freq": "0.03948"
             },
             {
                 "trait": "Android",
                 "weight": "300",
-                "occurrence": "312 in 7777 editions (4.01 %)"
+                "occurrence": "312",
+                "freq": "0.04012"
             },
             {
                 "trait": "Dark",
                 "weight": "2292",
-                "occurrence": "2202 in 7777 editions (28.31 %)"
+                "occurrence": "2202",
+                "freq": "0.28314"
             },
             {
                 "trait": "Light",
                 "weight": "2292",
-                "occurrence": "2326 in 7777 editions (29.91 %)"
+                "occurrence": "2326",
+                "freq": "0.29909"
             },
             {
                 "trait": "Medium",
                 "weight": "2292",
-                "occurrence": "2315 in 7777 editions (29.77 %)"
+                "occurrence": "2315",
+                "freq": "0.29767"
             },
             {
                 "trait": "Zombie",
                 "weight": "300",
-                "occurrence": "308 in 7777 editions (3.96 %)"
+                "occurrence": "308",
+                "freq": "0.03960"
             }
         ]
     },
@@ -150,47 +176,56 @@
             {
                 "trait": "Airpods",
                 "weight": "45",
-                "occurrence": "35 in 7777 editions (0.45 %)"
+                "occurrence": "35",
+                "freq": "0.00450"
             },
             {
                 "trait": "Biomechanical Tattoo",
                 "weight": "105",
-                "occurrence": "97 in 7777 editions (1.25 %)"
+                "occurrence": "97",
+                "freq": "0.01247"
             },
             {
                 "trait": "Broly Scar",
                 "weight": "45",
-                "occurrence": "34 in 7777 editions (0.44 %)"
+                "occurrence": "34",
+                "freq": "0.00437"
             },
             {
                 "trait": "Chest Hair",
                 "weight": "1540",
-                "occurrence": "1401 in 7777 editions (18.01 %)"
+                "occurrence": "1401",
+                "freq": "0.18015"
             },
             {
                 "trait": "Ear Rings",
                 "weight": "140",
-                "occurrence": "139 in 7777 editions (1.79 %)"
+                "occurrence": "139",
+                "freq": "0.01787"
             },
             {
                 "trait": "Nothing",
                 "weight": "4807",
-                "occurrence": "4660 in 7777 editions (59.92 %)"
+                "occurrence": "4660",
+                "freq": "0.59920"
             },
             {
                 "trait": "Palm",
                 "weight": "350",
-                "occurrence": "350 in 7777 editions (4.50 %)"
+                "occurrence": "350",
+                "freq": "0.04500"
             },
             {
                 "trait": "Scar",
                 "weight": "245",
-                "occurrence": "238 in 7777 editions (3.06 %)"
+                "occurrence": "238",
+                "freq": "0.03060"
             },
             {
                 "trait": "Tribal",
                 "weight": "500",
-                "occurrence": "496 in 7777 editions (6.38 %)"
+                "occurrence": "496",
+                "freq": "0.06378"
             }
         ]
     },
@@ -200,32 +235,38 @@
             {
                 "trait": "Bandit",
                 "weight": "405",
-                "occurrence": "489 in 7777 editions (6.29 %)"
+                "occurrence": "489",
+                "freq": "0.06288"
             },
             {
                 "trait": "Bone Tooth",
                 "weight": "569",
-                "occurrence": "660 in 7777 editions (8.49 %)"
+                "occurrence": "660",
+                "freq": "0.08487"
             },
             {
                 "trait": "Dog Tags",
                 "weight": "539",
-                "occurrence": "551 in 7777 editions (7.08 %)"
+                "occurrence": "551",
+                "freq": "0.07085"
             },
             {
                 "trait": "Gold Chain",
                 "weight": "459",
-                "occurrence": "513 in 7777 editions (6.60 %)"
+                "occurrence": "513",
+                "freq": "0.06596"
             },
             {
                 "trait": "Hunk Chain",
                 "weight": "358",
-                "occurrence": "386 in 7777 editions (4.96 %)"
+                "occurrence": "386",
+                "freq": "0.04963"
             },
             {
                 "trait": "Nothing",
                 "weight": "4546",
-                "occurrence": "4851 in 7777 editions (62.38 %)"
+                "occurrence": "4851",
+                "freq": "0.62376"
             }
         ]
     },
@@ -235,177 +276,212 @@
             {
                 "trait": "Bandolier",
                 "weight": "210",
-                "occurrence": "228 in 7777 editions (2.93 %)"
+                "occurrence": "228",
+                "freq": "0.02932"
             },
             {
                 "trait": "Bane",
                 "weight": "95",
-                "occurrence": "110 in 7777 editions (1.41 %)"
+                "occurrence": "110",
+                "freq": "0.01414"
             },
             {
                 "trait": "Black Stringer",
                 "weight": "290",
-                "occurrence": "291 in 7777 editions (3.74 %)"
+                "occurrence": "291",
+                "freq": "0.03742"
             },
             {
                 "trait": "Black T",
                 "weight": "266",
-                "occurrence": "262 in 7777 editions (3.37 %)"
+                "occurrence": "262",
+                "freq": "0.03369"
             },
             {
                 "trait": "Cardigan",
                 "weight": "231",
-                "occurrence": "224 in 7777 editions (2.88 %)"
+                "occurrence": "224",
+                "freq": "0.02880"
             },
             {
                 "trait": "Chain Weights",
                 "weight": "175",
-                "occurrence": "142 in 7777 editions (1.83 %)"
+                "occurrence": "142",
+                "freq": "0.01826"
             },
             {
                 "trait": "Cyberpunk Jacket",
                 "weight": "166",
-                "occurrence": "163 in 7777 editions (2.10 %)"
+                "occurrence": "163",
+                "freq": "0.02096"
             },
             {
                 "trait": "Cyberpunk Sleeveless",
                 "weight": "153",
-                "occurrence": "122 in 7777 editions (1.57 %)"
+                "occurrence": "122",
+                "freq": "0.01569"
             },
             {
                 "trait": "Cyberpunk Vest",
                 "weight": "194",
-                "occurrence": "186 in 7777 editions (2.39 %)"
+                "occurrence": "186",
+                "freq": "0.02392"
             },
             {
                 "trait": "Doctor's Coat",
                 "weight": "145",
-                "occurrence": "140 in 7777 editions (1.80 %)"
+                "occurrence": "140",
+                "freq": "0.01800"
             },
             {
                 "trait": "Flanel",
                 "weight": "337",
-                "occurrence": "327 in 7777 editions (4.20 %)"
+                "occurrence": "327",
+                "freq": "0.04205"
             },
             {
                 "trait": "Hawaiian T",
                 "weight": "135",
-                "occurrence": "123 in 7777 editions (1.58 %)"
+                "occurrence": "123",
+                "freq": "0.01582"
             },
             {
                 "trait": "Jacket n Turtle Neck",
                 "weight": "135",
-                "occurrence": "130 in 7777 editions (1.67 %)"
+                "occurrence": "130",
+                "freq": "0.01672"
             },
             {
                 "trait": "Karate Gi",
                 "weight": "135",
-                "occurrence": "135 in 7777 editions (1.74 %)"
+                "occurrence": "135",
+                "freq": "0.01736"
             },
             {
                 "trait": "Knight",
                 "weight": "129",
-                "occurrence": "123 in 7777 editions (1.58 %)"
+                "occurrence": "123",
+                "freq": "0.01582"
             },
             {
                 "trait": "Leather Jacket",
                 "weight": "271",
-                "occurrence": "257 in 7777 editions (3.30 %)"
+                "occurrence": "257",
+                "freq": "0.03305"
             },
             {
                 "trait": "Metal Arm",
                 "weight": "223",
-                "occurrence": "225 in 7777 editions (2.89 %)"
+                "occurrence": "225",
+                "freq": "0.02893"
             },
             {
                 "trait": "Nothing",
                 "weight": "562",
-                "occurrence": "538 in 7777 editions (6.92 %)"
+                "occurrence": "538",
+                "freq": "0.06918"
             },
             {
                 "trait": "Off Duty",
                 "weight": "260",
-                "occurrence": "214 in 7777 editions (2.75 %)"
+                "occurrence": "214",
+                "freq": "0.02752"
             },
             {
                 "trait": "Open Suit",
                 "weight": "240",
-                "occurrence": "213 in 7777 editions (2.74 %)"
+                "occurrence": "213",
+                "freq": "0.02739"
             },
             {
                 "trait": "Racer Jacket",
                 "weight": "284",
-                "occurrence": "267 in 7777 editions (3.43 %)"
+                "occurrence": "267",
+                "freq": "0.03433"
             },
             {
                 "trait": "Red Henley",
                 "weight": "267",
-                "occurrence": "291 in 7777 editions (3.74 %)"
+                "occurrence": "291",
+                "freq": "0.03742"
             },
             {
                 "trait": "Ripped Gi",
                 "weight": "202",
-                "occurrence": "205 in 7777 editions (2.64 %)"
+                "occurrence": "205",
+                "freq": "0.02636"
             },
             {
                 "trait": "Shell Vest",
                 "weight": "531",
-                "occurrence": "511 in 7777 editions (6.57 %)"
+                "occurrence": "511",
+                "freq": "0.06571"
             },
             {
                 "trait": "Sleeveless Blue",
                 "weight": "123",
-                "occurrence": "108 in 7777 editions (1.39 %)"
+                "occurrence": "108",
+                "freq": "0.01389"
             },
             {
                 "trait": "Sleeveless Green",
                 "weight": "122",
-                "occurrence": "97 in 7777 editions (1.25 %)"
+                "occurrence": "97",
+                "freq": "0.01247"
             },
             {
                 "trait": "Sleeveless Hoodie",
                 "weight": "123",
-                "occurrence": "119 in 7777 editions (1.53 %)"
+                "occurrence": "119",
+                "freq": "0.01530"
             },
             {
                 "trait": "Sleeveless Red",
                 "weight": "122",
-                "occurrence": "98 in 7777 editions (1.26 %)"
+                "occurrence": "98",
+                "freq": "0.01260"
             },
             {
                 "trait": "Smoking Jacket",
                 "weight": "195",
-                "occurrence": "176 in 7777 editions (2.26 %)"
+                "occurrence": "176",
+                "freq": "0.02263"
             },
             {
                 "trait": "Sport Coat",
                 "weight": "282",
-                "occurrence": "276 in 7777 editions (3.55 %)"
+                "occurrence": "276",
+                "freq": "0.03549"
             },
             {
                 "trait": "Squire",
                 "weight": "153",
-                "occurrence": "132 in 7777 editions (1.70 %)"
+                "occurrence": "132",
+                "freq": "0.01697"
             },
             {
                 "trait": "Stringer",
                 "weight": "279",
-                "occurrence": "313 in 7777 editions (4.02 %)"
+                "occurrence": "313",
+                "freq": "0.04025"
             },
             {
                 "trait": "Tank Top",
                 "weight": "356",
-                "occurrence": "350 in 7777 editions (4.50 %)"
+                "occurrence": "350",
+                "freq": "0.04500"
             },
             {
                 "trait": "Varsity Jacket",
                 "weight": "117",
-                "occurrence": "118 in 7777 editions (1.52 %)"
+                "occurrence": "118",
+                "freq": "0.01517"
             },
             {
                 "trait": "White Henley",
                 "weight": "262",
-                "occurrence": "236 in 7777 editions (3.03 %)"
+                "occurrence": "236",
+                "freq": "0.03035"
             }
         ]
     },
@@ -415,187 +491,224 @@
             {
                 "trait": "Bald",
                 "weight": "135",
-                "occurrence": "155 in 7777 editions (1.99 %)"
+                "occurrence": "155",
+                "freq": "0.01993"
             },
             {
                 "trait": "Bison",
                 "weight": "75",
-                "occurrence": "81 in 7777 editions (1.04 %)"
+                "occurrence": "81",
+                "freq": "0.01042"
             },
             {
                 "trait": "Black Bandana",
                 "weight": "153",
-                "occurrence": "159 in 7777 editions (2.04 %)"
+                "occurrence": "159",
+                "freq": "0.02044"
             },
             {
                 "trait": "Blonde Frohawk",
                 "weight": "225",
-                "occurrence": "205 in 7777 editions (2.64 %)"
+                "occurrence": "205",
+                "freq": "0.02636"
             },
             {
                 "trait": "Blue Beanie",
                 "weight": "293",
-                "occurrence": "329 in 7777 editions (4.23 %)"
+                "occurrence": "329",
+                "freq": "0.04230"
             },
             {
                 "trait": "Captains Hat",
                 "weight": "85",
-                "occurrence": "90 in 7777 editions (1.16 %)"
+                "occurrence": "90",
+                "freq": "0.01157"
             },
             {
                 "trait": "Combover",
                 "weight": "316",
-                "occurrence": "300 in 7777 editions (3.86 %)"
+                "occurrence": "300",
+                "freq": "0.03858"
             },
             {
                 "trait": "Cowboy Hat",
                 "weight": "175",
-                "occurrence": "194 in 7777 editions (2.49 %)"
+                "occurrence": "194",
+                "freq": "0.02495"
             },
             {
                 "trait": "Crown",
                 "weight": "24",
-                "occurrence": "21 in 7777 editions (0.27 %)"
+                "occurrence": "21",
+                "freq": "0.00270"
             },
             {
                 "trait": "Draper",
                 "weight": "250",
-                "occurrence": "243 in 7777 editions (3.12 %)"
+                "occurrence": "243",
+                "freq": "0.03125"
             },
             {
                 "trait": "Dreads",
                 "weight": "356",
-                "occurrence": "365 in 7777 editions (4.69 %)"
+                "occurrence": "365",
+                "freq": "0.04693"
             },
             {
                 "trait": "Elvis",
                 "weight": "160",
-                "occurrence": "140 in 7777 editions (1.80 %)"
+                "occurrence": "140",
+                "freq": "0.01800"
             },
             {
                 "trait": "Fade",
                 "weight": "350",
-                "occurrence": "336 in 7777 editions (4.32 %)"
+                "occurrence": "336",
+                "freq": "0.04320"
             },
             {
                 "trait": "Feather Hat",
                 "weight": "105",
-                "occurrence": "123 in 7777 editions (1.58 %)"
+                "occurrence": "123",
+                "freq": "0.01582"
             },
             {
                 "trait": "Flat Top",
                 "weight": "255",
-                "occurrence": "299 in 7777 editions (3.84 %)"
+                "occurrence": "299",
+                "freq": "0.03845"
             },
             {
                 "trait": "Fresh Fade",
                 "weight": "365",
-                "occurrence": "364 in 7777 editions (4.68 %)"
+                "occurrence": "364",
+                "freq": "0.04680"
             },
             {
                 "trait": "Frohawk",
                 "weight": "365",
-                "occurrence": "380 in 7777 editions (4.89 %)"
+                "occurrence": "380",
+                "freq": "0.04886"
             },
             {
                 "trait": "Jackson",
                 "weight": "260",
-                "occurrence": "252 in 7777 editions (3.24 %)"
+                "occurrence": "252",
+                "freq": "0.03240"
             },
             {
                 "trait": "Logan",
                 "weight": "175",
-                "occurrence": "136 in 7777 editions (1.75 %)"
+                "occurrence": "136",
+                "freq": "0.01749"
             },
             {
                 "trait": "Long Hair",
                 "weight": "250",
-                "occurrence": "280 in 7777 editions (3.60 %)"
+                "occurrence": "280",
+                "freq": "0.03600"
             },
             {
                 "trait": "Man Bun",
                 "weight": "100",
-                "occurrence": "93 in 7777 editions (1.20 %)"
+                "occurrence": "93",
+                "freq": "0.01196"
             },
             {
                 "trait": "Mohawk",
                 "weight": "200",
-                "occurrence": "193 in 7777 editions (2.48 %)"
+                "occurrence": "193",
+                "freq": "0.02482"
             },
             {
                 "trait": "Mullet",
                 "weight": "140",
-                "occurrence": "125 in 7777 editions (1.61 %)"
+                "occurrence": "125",
+                "freq": "0.01607"
             },
             {
                 "trait": "Nukem",
                 "weight": "225",
-                "occurrence": "201 in 7777 editions (2.58 %)"
+                "occurrence": "201",
+                "freq": "0.02585"
             },
             {
                 "trait": "Purple Bandana",
                 "weight": "133",
-                "occurrence": "155 in 7777 editions (1.99 %)"
+                "occurrence": "155",
+                "freq": "0.01993"
             },
             {
                 "trait": "Red Beanie",
                 "weight": "273",
-                "occurrence": "293 in 7777 editions (3.77 %)"
+                "occurrence": "293",
+                "freq": "0.03768"
             },
             {
                 "trait": "Ryu",
                 "weight": "220",
-                "occurrence": "205 in 7777 editions (2.64 %)"
+                "occurrence": "205",
+                "freq": "0.02636"
             },
             {
                 "trait": "S&M",
                 "weight": "150",
-                "occurrence": "131 in 7777 editions (1.68 %)"
+                "occurrence": "131",
+                "freq": "0.01684"
             },
             {
                 "trait": "Samurai Helm",
                 "weight": "140",
-                "occurrence": "151 in 7777 editions (1.94 %)"
+                "occurrence": "151",
+                "freq": "0.01942"
             },
             {
                 "trait": "Seaman Hat",
                 "weight": "150",
-                "occurrence": "155 in 7777 editions (1.99 %)"
+                "occurrence": "155",
+                "freq": "0.01993"
             },
             {
                 "trait": "Shelby",
                 "weight": "293",
-                "occurrence": "287 in 7777 editions (3.69 %)"
+                "occurrence": "287",
+                "freq": "0.03690"
             },
             {
                 "trait": "Skull Cap",
                 "weight": "277",
-                "occurrence": "259 in 7777 editions (3.33 %)"
+                "occurrence": "259",
+                "freq": "0.03330"
             },
             {
                 "trait": "Snapback",
                 "weight": "175",
-                "occurrence": "184 in 7777 editions (2.37 %)"
+                "occurrence": "184",
+                "freq": "0.02366"
             },
             {
                 "trait": "Sushi",
                 "weight": "227",
-                "occurrence": "222 in 7777 editions (2.85 %)"
+                "occurrence": "222",
+                "freq": "0.02855"
             },
             {
                 "trait": "Sweat Band",
                 "weight": "225",
-                "occurrence": "225 in 7777 editions (2.89 %)"
+                "occurrence": "225",
+                "freq": "0.02893"
             },
             {
                 "trait": "Tupac",
                 "weight": "101",
-                "occurrence": "86 in 7777 editions (1.11 %)"
+                "occurrence": "86",
+                "freq": "0.01106"
             },
             {
                 "trait": "Viking Helm",
                 "weight": "35",
-                "occurrence": "33 in 7777 editions (0.42 %)"
+                "occurrence": "33",
+                "freq": "0.00424"
             }
         ]
     },
@@ -605,152 +718,182 @@
             {
                 "trait": "Black Beard",
                 "weight": "233",
-                "occurrence": "236 in 7777 editions (3.03 %)"
+                "occurrence": "236",
+                "freq": "0.03035"
             },
             {
                 "trait": "Black Full Beard2",
                 "weight": "170",
-                "occurrence": "160 in 7777 editions (2.06 %)"
+                "occurrence": "160",
+                "freq": "0.02057"
             },
             {
                 "trait": "Black Goatee",
                 "weight": "206",
-                "occurrence": "209 in 7777 editions (2.69 %)"
+                "occurrence": "209",
+                "freq": "0.02687"
             },
             {
                 "trait": "Black Mountain Man",
                 "weight": "205",
-                "occurrence": "210 in 7777 editions (2.70 %)"
+                "occurrence": "210",
+                "freq": "0.02700"
             },
             {
                 "trait": "Black Moustache",
                 "weight": "194",
-                "occurrence": "182 in 7777 editions (2.34 %)"
+                "occurrence": "182",
+                "freq": "0.02340"
             },
             {
                 "trait": "Blonde Beard",
                 "weight": "193",
-                "occurrence": "189 in 7777 editions (2.43 %)"
+                "occurrence": "189",
+                "freq": "0.02430"
             },
             {
                 "trait": "Blonde Full Beard",
                 "weight": "203",
-                "occurrence": "197 in 7777 editions (2.53 %)"
+                "occurrence": "197",
+                "freq": "0.02533"
             },
             {
                 "trait": "Blonde Goatee",
                 "weight": "131",
-                "occurrence": "128 in 7777 editions (1.65 %)"
+                "occurrence": "128",
+                "freq": "0.01646"
             },
             {
                 "trait": "Blonde Mountain Man",
                 "weight": "133",
-                "occurrence": "141 in 7777 editions (1.81 %)"
+                "occurrence": "141",
+                "freq": "0.01813"
             },
             {
                 "trait": "Blonde Moustache",
                 "weight": "188",
-                "occurrence": "166 in 7777 editions (2.13 %)"
+                "occurrence": "166",
+                "freq": "0.02134"
             },
             {
                 "trait": "Brown Beard",
                 "weight": "217",
-                "occurrence": "230 in 7777 editions (2.96 %)"
+                "occurrence": "230",
+                "freq": "0.02957"
             },
             {
                 "trait": "Brown Full Beard",
                 "weight": "167",
-                "occurrence": "160 in 7777 editions (2.06 %)"
+                "occurrence": "160",
+                "freq": "0.02057"
             },
             {
                 "trait": "Brown Goatee",
                 "weight": "147",
-                "occurrence": "144 in 7777 editions (1.85 %)"
+                "occurrence": "144",
+                "freq": "0.01852"
             },
             {
                 "trait": "Brown Handle Bar",
                 "weight": "101",
-                "occurrence": "107 in 7777 editions (1.38 %)"
+                "occurrence": "107",
+                "freq": "0.01376"
             },
             {
                 "trait": "Brown Mountain Man",
                 "weight": "155",
-                "occurrence": "137 in 7777 editions (1.76 %)"
+                "occurrence": "137",
+                "freq": "0.01762"
             },
             {
                 "trait": "Brown Moustache",
                 "weight": "196",
-                "occurrence": "169 in 7777 editions (2.17 %)"
+                "occurrence": "169",
+                "freq": "0.02173"
             },
             {
                 "trait": "Classic Beard",
                 "weight": "220",
-                "occurrence": "201 in 7777 editions (2.58 %)"
+                "occurrence": "201",
+                "freq": "0.02585"
             },
             {
                 "trait": "Disconnected Goatee",
                 "weight": "238",
-                "occurrence": "242 in 7777 editions (3.11 %)"
+                "occurrence": "242",
+                "freq": "0.03112"
             },
             {
                 "trait": "Extended Goatee",
                 "weight": "223",
-                "occurrence": "237 in 7777 editions (3.05 %)"
+                "occurrence": "237",
+                "freq": "0.03047"
             },
             {
                 "trait": "Fletcher",
                 "weight": "300",
-                "occurrence": "271 in 7777 editions (3.48 %)"
+                "occurrence": "271",
+                "freq": "0.03485"
             },
             {
                 "trait": "Gentleman's Beard",
                 "weight": "237",
-                "occurrence": "206 in 7777 editions (2.65 %)"
+                "occurrence": "206",
+                "freq": "0.02649"
             },
             {
                 "trait": "King James Long",
                 "weight": "257",
-                "occurrence": "246 in 7777 editions (3.16 %)"
+                "occurrence": "246",
+                "freq": "0.03163"
             },
             {
                 "trait": "King James",
                 "weight": "269",
-                "occurrence": "290 in 7777 editions (3.73 %)"
+                "occurrence": "290",
+                "freq": "0.03729"
             },
             {
                 "trait": "Logan",
                 "weight": "108",
-                "occurrence": "96 in 7777 editions (1.23 %)"
+                "occurrence": "96",
+                "freq": "0.01234"
             },
             {
                 "trait": "Nothing",
                 "weight": "773",
-                "occurrence": "798 in 7777 editions (10.26 %)"
+                "occurrence": "798",
+                "freq": "0.10261"
             },
             {
                 "trait": "Red Beard",
                 "weight": "170",
-                "occurrence": "165 in 7777 editions (2.12 %)"
+                "occurrence": "165",
+                "freq": "0.02122"
             },
             {
                 "trait": "Red Full Beard",
                 "weight": "186",
-                "occurrence": "200 in 7777 editions (2.57 %)"
+                "occurrence": "200",
+                "freq": "0.02572"
             },
             {
                 "trait": "Red Mountain Man",
                 "weight": "147",
-                "occurrence": "143 in 7777 editions (1.84 %)"
+                "occurrence": "143",
+                "freq": "0.01839"
             },
             {
                 "trait": "Rugged",
                 "weight": "274",
-                "occurrence": "275 in 7777 editions (3.54 %)"
+                "occurrence": "275",
+                "freq": "0.03536"
             },
             {
                 "trait": "Shadow",
                 "weight": "625",
-                "occurrence": "664 in 7777 editions (8.54 %)"
+                "occurrence": "664",
+                "freq": "0.08538"
             }
         ]
     },
@@ -760,132 +903,158 @@
             {
                 "trait": "3D",
                 "weight": "325",
-                "occurrence": "305 in 7777 editions (3.92 %)"
+                "occurrence": "305",
+                "freq": "0.03922"
             },
             {
                 "trait": "Angry",
                 "weight": "756",
-                "occurrence": "734 in 7777 editions (9.44 %)"
+                "occurrence": "734",
+                "freq": "0.09438"
             },
             {
                 "trait": "Aviators",
                 "weight": "304",
-                "occurrence": "318 in 7777 editions (4.09 %)"
+                "occurrence": "318",
+                "freq": "0.04089"
             },
             {
                 "trait": "Blazed",
                 "weight": "161",
-                "occurrence": "160 in 7777 editions (2.06 %)"
+                "occurrence": "160",
+                "freq": "0.02057"
             },
             {
                 "trait": "Cyberpunk",
                 "weight": "100",
-                "occurrence": "80 in 7777 editions (1.03 %)"
+                "occurrence": "80",
+                "freq": "0.01029"
             },
             {
                 "trait": "DEGEN",
                 "weight": "177",
-                "occurrence": "165 in 7777 editions (2.12 %)"
+                "occurrence": "165",
+                "freq": "0.02122"
             },
             {
                 "trait": "Don",
                 "weight": "48",
-                "occurrence": "44 in 7777 editions (0.57 %)"
+                "occurrence": "44",
+                "freq": "0.00566"
             },
             {
                 "trait": "Doom",
                 "weight": "656",
-                "occurrence": "644 in 7777 editions (8.28 %)"
+                "occurrence": "644",
+                "freq": "0.08281"
             },
             {
                 "trait": "Eye Patch",
                 "weight": "230",
-                "occurrence": "237 in 7777 editions (3.05 %)"
+                "occurrence": "237",
+                "freq": "0.03047"
             },
             {
                 "trait": "Laser Eyes",
                 "weight": "16",
-                "occurrence": "12 in 7777 editions (0.15 %)"
+                "occurrence": "12",
+                "freq": "0.00154"
             },
             {
                 "trait": "Logan",
                 "weight": "734",
-                "occurrence": "737 in 7777 editions (9.48 %)"
+                "occurrence": "737",
+                "freq": "0.09477"
             },
             {
                 "trait": "Normal",
                 "weight": "1350",
-                "occurrence": "1357 in 7777 editions (17.45 %)"
+                "occurrence": "1357",
+                "freq": "0.17449"
             },
             {
                 "trait": "Pit Vipers",
                 "weight": "344",
-                "occurrence": "711 in 7777 editions (9.14 %)"
+                "occurrence": "711",
+                "freq": "0.09142"
             },
             {
                 "trait": "Pit Vipers",
                 "weight": "345",
-                "occurrence": "711 in 7777 editions (9.14 %)"
+                "occurrence": "711",
+                "freq": "0.09142"
             },
             {
                 "trait": "Raph",
                 "weight": "48",
-                "occurrence": "57 in 7777 editions (0.73 %)"
+                "occurrence": "57",
+                "freq": "0.00733"
             },
             {
                 "trait": "Rave Shades",
                 "weight": "254",
-                "occurrence": "272 in 7777 editions (3.50 %)"
+                "occurrence": "272",
+                "freq": "0.03497"
             },
             {
                 "trait": "Red",
                 "weight": "16",
-                "occurrence": "20 in 7777 editions (0.26 %)"
+                "occurrence": "20",
+                "freq": "0.00257"
             },
             {
                 "trait": "Scouter",
                 "weight": "144",
-                "occurrence": "146 in 7777 editions (1.88 %)"
+                "occurrence": "146",
+                "freq": "0.01877"
             },
             {
                 "trait": "Studious",
                 "weight": "264",
-                "occurrence": "273 in 7777 editions (3.51 %)"
+                "occurrence": "273",
+                "freq": "0.03510"
             },
             {
                 "trait": "Terminator",
                 "weight": "80",
-                "occurrence": "84 in 7777 editions (1.08 %)"
+                "occurrence": "84",
+                "freq": "0.01080"
             },
             {
                 "trait": "Thug Life",
                 "weight": "237",
-                "occurrence": "238 in 7777 editions (3.06 %)"
+                "occurrence": "238",
+                "freq": "0.03060"
             },
             {
                 "trait": "VR Goggles",
                 "weight": "95",
-                "occurrence": "112 in 7777 editions (1.44 %)"
+                "occurrence": "112",
+                "freq": "0.01440"
             },
             {
                 "trait": "WUT",
                 "weight": "563",
-                "occurrence": "530 in 7777 editions (6.81 %)"
+                "occurrence": "530",
+                "freq": "0.06815"
             },
             {
                 "trait": "Wayfarers",
                 "weight": "192",
-                "occurrence": "211 in 7777 editions (2.71 %)"
+                "occurrence": "211",
+                "freq": "0.02713"
             },
             {
                 "trait": "White Frames",
                 "weight": "256",
-                "occurrence": "251 in 7777 editions (3.23 %)"
+                "occurrence": "251",
+                "freq": "0.03227"
             },
             {
                 "trait": "X Ray",
                 "weight": "82",
-                "occurrence": "72 in 7777 editions (0.93 %)"
+                "occurrence": "72",
+                "freq": "0.00926"
             }
         ]
     },
@@ -895,32 +1064,38 @@
             {
                 "trait": "Cigar",
                 "weight": "296",
-                "occurrence": "304 in 7777 editions (3.91 %)"
+                "occurrence": "304",
+                "freq": "0.03909"
             },
             {
                 "trait": "Cigarette",
                 "weight": "510",
-                "occurrence": "485 in 7777 editions (6.24 %)"
+                "occurrence": "485",
+                "freq": "0.06236"
             },
             {
                 "trait": "Joint",
                 "weight": "456",
-                "occurrence": "409 in 7777 editions (5.26 %)"
+                "occurrence": "409",
+                "freq": "0.05259"
             },
             {
                 "trait": "Nothing",
                 "weight": "4122",
-                "occurrence": "4041 in 7777 editions (51.96 %)"
+                "occurrence": "4041",
+                "freq": "0.51961"
             },
             {
                 "trait": "Pipe",
                 "weight": "657",
-                "occurrence": "699 in 7777 editions (8.99 %)"
+                "occurrence": "699",
+                "freq": "0.08988"
             },
             {
                 "trait": "Toothpick",
                 "weight": "835",
-                "occurrence": "861 in 7777 editions (11.07 %)"
+                "occurrence": "861",
+                "freq": "0.11071"
             }
         ]
     },
@@ -930,37 +1105,44 @@
             {
                 "trait": "Bandana",
                 "weight": "254",
-                "occurrence": "270 in 7777 editions (3.47 %)"
+                "occurrence": "270",
+                "freq": "0.03472"
             },
             {
                 "trait": "Ghost",
                 "weight": "57",
-                "occurrence": "66 in 7777 editions (0.85 %)"
+                "occurrence": "66",
+                "freq": "0.00849"
             },
             {
                 "trait": "Scorpion",
                 "weight": "156",
-                "occurrence": "177 in 7777 editions (2.28 %)"
+                "occurrence": "177",
+                "freq": "0.02276"
             },
             {
                 "trait": "Smoke Mask",
                 "weight": "73",
-                "occurrence": "75 in 7777 editions (0.96 %)"
+                "occurrence": "75",
+                "freq": "0.00964"
             },
             {
                 "trait": "Sub Zero",
                 "weight": "175",
-                "occurrence": "196 in 7777 editions (2.52 %)"
+                "occurrence": "196",
+                "freq": "0.02520"
             },
             {
                 "trait": "Training Mask",
                 "weight": "145",
-                "occurrence": "141 in 7777 editions (1.81 %)"
+                "occurrence": "141",
+                "freq": "0.01813"
             },
             {
                 "trait": "Tsushima Gold",
                 "weight": "41",
-                "occurrence": "46 in 7777 editions (0.59 %)"
+                "occurrence": "46",
+                "freq": "0.00591"
             }
         ]
     },
@@ -970,27 +1152,32 @@
             {
                 "trait": "Black Hoodie Sleeveless",
                 "weight": "70",
-                "occurrence": "72 in 7777 editions (0.93 %)"
+                "occurrence": "72",
+                "freq": "0.00926"
             },
             {
                 "trait": "Black Hoodie",
                 "weight": "56",
-                "occurrence": "57 in 7777 editions (0.73 %)"
+                "occurrence": "57",
+                "freq": "0.00733"
             },
             {
                 "trait": "Purple Hoodie Sleeveless",
                 "weight": "90",
-                "occurrence": "104 in 7777 editions (1.34 %)"
+                "occurrence": "104",
+                "freq": "0.01337"
             },
             {
                 "trait": "Red Hoodie Sleeveless",
                 "weight": "50",
-                "occurrence": "44 in 7777 editions (0.57 %)"
+                "occurrence": "44",
+                "freq": "0.00566"
             },
             {
                 "trait": "Red Hoodie",
                 "weight": "47",
-                "occurrence": "43 in 7777 editions (0.55 %)"
+                "occurrence": "43",
+                "freq": "0.00553"
             }
         ]
     }
