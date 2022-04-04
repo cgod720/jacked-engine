@@ -75,13 +75,13 @@ for (var layer in rarityData) {
 
 
 // print out rarity data
-// for (var layer in rarityData) {
-//   console.log(`Trait type: ${layer}`);
-//   for (var trait in rarityData[layer]) {
-//     console.log(rarityData[layer][trait]);
-//   }
-//   console.log();  
-// }
+for (var layer in rarityData) {
+  console.log(`Trait type: ${layer}`);
+  for (var trait in rarityData[layer]) {
+    console.log(rarityData[layer][trait]);
+  }
+  console.log();  
+}
 
 
 module.exports = { rarityData }
