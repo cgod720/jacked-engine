@@ -1,46 +1,46 @@
 {
-  "name": "CryptoHunkz #5857",
-  "description": "7777 randomly generated CryptoHunkz coming to the Metaverse to chase the pump",
+  "name": "Jacked Degenerates #5857",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
   "image": "ipfs://NewUriToReplace/5857.png",
-  "dna": "6ac3685dbb234a89aed0e0234f84ed0eb5787846",
+  "dna": "b1779119415391bee1f14b58c0eff576e3f38e6f",
   "edition": 5857,
-  "date": 1647274561028,
+  "date": 1670285313830,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Black"
+      "value": "Dark Grey"
     },
     {
       "trait_type": "Body",
-      "value": "Light"
+      "value": "Medium"
     },
     {
       "trait_type": "Accessory",
-      "value": "Chest Hair"
-    },
-    {
-      "trait_type": "Neck",
       "value": "Nothing"
     },
     {
+      "trait_type": "Neck",
+      "value": "Bone Tooth"
+    },
+    {
       "trait_type": "Torso",
-      "value": "Tank Top"
+      "value": "Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Tupac"
+      "value": "Frohawk"
     },
     {
       "trait_type": "Facial Hair",
-      "value": "Black Mountain Man"
+      "value": "King James Long"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
+      "value": "Pit Vipers"
     },
     {
       "trait_type": "Mouth",
-      "value": "Cigarette"
+      "value": "Cigar"
     }
   ]
 }

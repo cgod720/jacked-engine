@@ -1,22 +1,22 @@
 {
-  "name": "CryptoHunkz #5600",
-  "description": "7777 randomly generated CryptoHunkz coming to the Metaverse to chase the pump",
+  "name": "Jacked Degenerates #5600",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
   "image": "ipfs://NewUriToReplace/5600.png",
-  "dna": "18d2b3fcd0c9d041bd8710fe636887fe379152bd",
+  "dna": "404e29e5b2f8e5526490eaf3b6968dbddb2e9622",
   "edition": 5600,
-  "date": 1647274549406,
+  "date": 1670285301320,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Black"
+      "value": "Dark Grey"
     },
     {
       "trait_type": "Body",
-      "value": "Medium"
+      "value": "Light"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nothing"
+      "value": "Chest Hair"
     },
     {
       "trait_type": "Neck",
@@ -24,23 +24,23 @@
     },
     {
       "trait_type": "Torso",
-      "value": "Chain Weights"
+      "value": "Sport Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Frohawk"
+      "value": "Combover"
     },
     {
       "trait_type": "Facial Hair",
-      "value": "Disconnected Goatee"
+      "value": "Fu Man Chu"
     },
     {
       "trait_type": "Eyes",
-      "value": "Logan"
+      "value": "White Frames"
     },
     {
       "trait_type": "Mouth",
-      "value": "Nothing"
+      "value": "Cigar"
     }
   ]
 }

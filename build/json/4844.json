@@ -1,46 +1,46 @@
 {
-  "name": "CryptoHunkz #4844",
-  "description": "7777 randomly generated CryptoHunkz coming to the Metaverse to chase the pump",
+  "name": "Jacked Degenerates #4844",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
   "image": "ipfs://NewUriToReplace/4844.png",
-  "dna": "f7ac9e4ccb934098b45e3382c7dff6cad96fdaa6",
+  "dna": "1b90a867c4ce555953f650f76d7dab0a987b93c0",
   "edition": 4844,
-  "date": 1647274514349,
+  "date": 1670285264726,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Synthwave"
+      "value": "Retro Squares"
     },
     {
       "trait_type": "Body",
-      "value": "Light"
+      "value": "Medium"
     },
     {
       "trait_type": "Accessory",
-      "value": "Biomechanical Tattoo"
-    },
-    {
-      "trait_type": "Neck",
-      "value": "Bone Tooth"
-    },
-    {
-      "trait_type": "Torso",
-      "value": "Jacket n Turtle Neck"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Blue Beanie"
-    },
-    {
-      "trait_type": "Facial Hair",
       "value": "Nothing"
     },
     {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "SSJ"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Jackson"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Colonel"
+    },
+    {
       "trait_type": "Eyes",
-      "value": "Rave Shades"
+      "value": "Normal"
     },
     {
       "trait_type": "Mouth",
-      "value": "Pipe"
+      "value": "Nothing"
     }
   ]
 }

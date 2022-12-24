@@ -1,0 +1,30 @@
+{
+  "name": "Jacked Degenerates #9631",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
+  "image": "ipfs://NewUriToReplace/9631.png",
+  "dna": "45cd05d1d41a81703c0a53913de00bbcd07bb198",
+  "edition": 9631,
+  "date": 1670285515060,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Training Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pit Vipers"
+    },
+    {
+      "trait_type": "Hoodie",
+      "value": "Contender Robe"
+    }
+  ]
+}

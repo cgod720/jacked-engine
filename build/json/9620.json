@@ -1,0 +1,30 @@
+{
+  "name": "Jacked Degenerates #9620",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
+  "image": "ipfs://NewUriToReplace/9620.png",
+  "dna": "87418b0b50ffece8c280e119b4a0f72670d2bf85",
+  "edition": 9620,
+  "date": 1670285514424,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Retro Squares"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Tsushima Gold"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Hoodie",
+      "value": "Champ Robe"
+    }
+  ]
+}

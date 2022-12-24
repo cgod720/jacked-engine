@@ -1,46 +1,46 @@
 {
-  "name": "CryptoHunkz #2857",
-  "description": "7777 randomly generated CryptoHunkz coming to the Metaverse to chase the pump",
+  "name": "Jacked Degenerates #2857",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
   "image": "ipfs://NewUriToReplace/2857.png",
-  "dna": "fdaad3577c9d61f5122a26db398cf8f054250fd9",
+  "dna": "9d5752b342fe88a6ce89c796efbab8f2e20d8234",
   "edition": 2857,
-  "date": 1647274429194,
+  "date": 1670285169275,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Eden"
+      "value": "Greyscale"
     },
     {
       "trait_type": "Body",
-      "value": "Dark"
+      "value": "Medium"
     },
     {
       "trait_type": "Accessory",
-      "value": "Nothing"
+      "value": "Tribal"
     },
     {
       "trait_type": "Neck",
-      "value": "Bone Tooth"
+      "value": "Nothing"
     },
     {
       "trait_type": "Torso",
-      "value": "Cyberpunk Sleeveless"
+      "value": "Nothing"
     },
     {
       "trait_type": "Head",
-      "value": "Seaman Hat"
+      "value": "Fresh Fade"
     },
     {
       "trait_type": "Facial Hair",
-      "value": "Black Goatee"
+      "value": "Brown Mountain Man"
     },
     {
       "trait_type": "Eyes",
-      "value": "Wayfarers"
+      "value": "Bloodshot"
     },
     {
       "trait_type": "Mouth",
-      "value": "Nothing"
+      "value": "Cigar"
     }
   ]
 }

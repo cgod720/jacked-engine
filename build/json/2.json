@@ -1,14 +1,46 @@
 {
-  "name": "CryptoHunkz #2",
-  "description": "7777 randomly generated CryptoHunkz coming to the Metaverse to chase the pump",
+  "name": "Jacked Degenerates #2",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
   "image": "ipfs://NewUriToReplace/2.png",
-  "dna": "9d2c0572dce4eeb8b5513810e2d7bdea7e78ffc5",
+  "dna": "20a02c7b7a10b74cf4bc2345c7be49fd2502bed7",
   "edition": 2,
-  "date": 1647274282671,
+  "date": 1670285032093,
   "attributes": [
     {
-      "trait_type": "Legendary",
-      "value": "Val HalETH"
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Doctor's Coat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sweat Band"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Brown Moustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Logan"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
     }
   ]
 }

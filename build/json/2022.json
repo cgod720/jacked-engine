@@ -1,10 +1,10 @@
 {
-  "name": "CryptoHunkz #2022",
-  "description": "7777 randomly generated CryptoHunkz coming to the Metaverse to chase the pump",
+  "name": "Jacked Degenerates #2022",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
   "image": "ipfs://NewUriToReplace/2022.png",
-  "dna": "594325e6af0a2b5083e4910d64476a378ec870c4",
+  "dna": "0c48c6da42dd824c83ef4f69d738a754f8b956bc",
   "edition": 2022,
-  "date": 1647274381603,
+  "date": 1670285129322,
   "attributes": [
     {
       "trait_type": "Background",
@@ -24,15 +24,15 @@
     },
     {
       "trait_type": "Torso",
-      "value": "Doctor's Coat"
+      "value": "Champ Robe"
     },
     {
       "trait_type": "Head",
-      "value": "Nukem"
+      "value": "Logan"
     },
     {
       "trait_type": "Facial Hair",
-      "value": "Classic Beard"
+      "value": "King James"
     },
     {
       "trait_type": "Eyes",
@@ -40,7 +40,7 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Cigar"
+      "value": "Nothing"
     }
   ]
 }

@@ -1,18 +1,18 @@
 {
-  "name": "CryptoHunkz #3614",
-  "description": "7777 randomly generated CryptoHunkz coming to the Metaverse to chase the pump",
+  "name": "Jacked Degenerates #3614",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
   "image": "ipfs://NewUriToReplace/3614.png",
-  "dna": "b43de22364461f76f0006465007e3ec6697d766d",
+  "dna": "1814647455be24d9b4dca1e2b447b84148267ab2",
   "edition": 3614,
-  "date": 1647274462158,
+  "date": 1670285205566,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "American Flag"
+      "value": "Eden"
     },
     {
       "trait_type": "Body",
-      "value": "Zombie"
+      "value": "Light"
     },
     {
       "trait_type": "Accessory",
@@ -20,23 +20,23 @@
     },
     {
       "trait_type": "Neck",
-      "value": "Hunk Chain"
-    },
-    {
-      "trait_type": "Torso",
-      "value": "Black T"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Blue Beanie"
-    },
-    {
-      "trait_type": "Facial Hair",
       "value": "Nothing"
     },
     {
+      "trait_type": "Torso",
+      "value": "Ripped Gi"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreads"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Gentleman's Beard"
+    },
+    {
       "trait_type": "Eyes",
-      "value": "Logan"
+      "value": "Angry"
     },
     {
       "trait_type": "Mouth",

@@ -5,21 +5,22 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "CryptoHunkz";
-const description = "7777 randomly generated CryptoHunkz coming to the Metaverse to chase the pump";
+const namePrefix = "Jacked Degenerates";
+const description = "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures";
 const baseUri = "ipfs://NewUriToReplace";
 
 
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
+  // {
+  //   growEditionSizeTo: 7,
+  //   layersOrder: [
+  //     { name: "Legendary" },
+  //   ],
+  // },
+
   {
-    growEditionSizeTo: 7,
-    layersOrder: [
-      { name: "Legendary" },
-    ],
-  },
-  {
-    growEditionSizeTo: 6556,
+    growEditionSizeTo: 8800,
     layersOrder: [
       { name: "Background" },
       { name: "Body" },
@@ -33,7 +34,7 @@ const layerConfigurations = [
     ],
   },
   {
-    growEditionSizeTo: 7457,
+    growEditionSizeTo: 9200,
     layersOrder: [
       { name: "Background" },
       { name: "Body" },
@@ -46,7 +47,7 @@ const layerConfigurations = [
     ],
   },
   {
-    growEditionSizeTo: 7707,
+    growEditionSizeTo: 9500,
     layersOrder: [
       { name: "Background" },
       { name: "Body" },
@@ -57,7 +58,7 @@ const layerConfigurations = [
     ]
   },
   {
-    growEditionSizeTo: 7777,
+    growEditionSizeTo: 9651,
     layersOrder: [
       { name: "Background" },
       { name: "Body" },

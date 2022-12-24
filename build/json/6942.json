@@ -1,42 +1,46 @@
 {
-  "name": "CryptoHunkz #6942",
-  "description": "7777 randomly generated CryptoHunkz coming to the Metaverse to chase the pump",
+  "name": "Jacked Degenerates #6942",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
   "image": "ipfs://NewUriToReplace/6942.png",
-  "dna": "2ea2abb24c8fb95b3c40d356ac6d7877af4ac0ef",
+  "dna": "5f77287449b8bdc3d96fe8b9bb2f4f6c0b225caf",
   "edition": 6942,
-  "date": 1647274610932,
+  "date": 1670285367505,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Black"
+      "value": "Greyscale"
     },
     {
       "trait_type": "Body",
-      "value": "Alien"
+      "value": "Light"
     },
     {
       "trait_type": "Accessory",
-      "value": "Tribal"
-    },
-    {
-      "trait_type": "Neck",
       "value": "Nothing"
     },
     {
-      "trait_type": "Torso",
-      "value": "White Henley"
+      "trait_type": "Neck",
+      "value": "Gold Chain"
     },
     {
-      "trait_type": "Mask",
-      "value": "Sub Zero"
+      "trait_type": "Torso",
+      "value": "Smoking Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Sweat Band"
+      "value": "Ryu"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Brown Mountain Man"
     },
     {
       "trait_type": "Eyes",
-      "value": "Doom"
+      "value": "Pit Vipers"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
     }
   ]
 }

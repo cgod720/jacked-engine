@@ -1,14 +1,14 @@
 {
-  "name": "CryptoHunkz #3567",
-  "description": "7777 randomly generated CryptoHunkz coming to the Metaverse to chase the pump",
+  "name": "Jacked Degenerates #3567",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
   "image": "ipfs://NewUriToReplace/3567.png",
-  "dna": "1ff7d260da3e0a288508c22637494eda8c205fe0",
+  "dna": "148d17964f10586554fd614a7239d4ef129c4a95",
   "edition": 3567,
-  "date": 1647274460080,
+  "date": 1670285203312,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Synthwave"
+      "value": "Black"
     },
     {
       "trait_type": "Body",
@@ -16,27 +16,27 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Nothing"
+      "value": "Scar"
     },
     {
       "trait_type": "Neck",
-      "value": "Hunk Chain"
-    },
-    {
-      "trait_type": "Torso",
-      "value": "Sleeveless Hoodie"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Dreads"
-    },
-    {
-      "trait_type": "Facial Hair",
       "value": "Nothing"
     },
     {
+      "trait_type": "Torso",
+      "value": "Flanel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Fu Man Chu"
+    },
+    {
       "trait_type": "Eyes",
-      "value": "Wayfarers"
+      "value": "DEGEN"
     },
     {
       "trait_type": "Mouth",

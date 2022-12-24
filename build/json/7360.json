@@ -1,42 +1,46 @@
 {
-  "name": "CryptoHunkz #7360",
-  "description": "7777 randomly generated CryptoHunkz coming to the Metaverse to chase the pump",
+  "name": "Jacked Degenerates #7360",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
   "image": "ipfs://NewUriToReplace/7360.png",
-  "dna": "d78f7a4350f5356f9c4c2637400142059181719c",
+  "dna": "73885d73cc9b0b6d2201c219fd8e90ce1f961e8f",
   "edition": 7360,
-  "date": 1647274629891,
+  "date": 1670285390255,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Synthwave"
+      "value": "Greyscale"
     },
     {
       "trait_type": "Body",
-      "value": "Medium"
+      "value": "Light"
     },
     {
       "trait_type": "Accessory",
-      "value": "Palm"
-    },
-    {
-      "trait_type": "Neck",
       "value": "Nothing"
     },
     {
-      "trait_type": "Torso",
-      "value": "Leather Jacket"
+      "trait_type": "Neck",
+      "value": "Gold Chain"
     },
     {
-      "trait_type": "Mask",
-      "value": "Training Mask"
+      "trait_type": "Torso",
+      "value": "Black Stringer"
     },
     {
       "trait_type": "Head",
-      "value": "Mullet"
+      "value": "Shelby"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Red Beard"
     },
     {
       "trait_type": "Eyes",
-      "value": "Aviators"
+      "value": "Rave Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nothing"
     }
   ]
 }
