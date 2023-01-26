@@ -218,7 +218,7 @@ const reIdMetadata = () => {
             const degens = JSON.parse(data)
             const goodDegens = []
             let counter = 9652
-            for (let i = 0; i <= 10; i++) {
+            for (let i = 0; i <= degens.length; i++) {
                 
                 // console.log(degens[i])
                 const updatedDegen = { ...degens[i] }
@@ -230,10 +230,43 @@ const reIdMetadata = () => {
                 // if(counter === 9662){
                 //     console.log(updatedDegen)
                 // }
+                for (let j = 0; j < updatedDegen.attributes.length; j++) {
+                    
+                    // console.log(updatedDegen.attributes[j])
+                    if(updatedDegen.attributes[j].trait_type === 'Body' && updatedDegen.attributes[j].value === 'Alien'){
+                        updatedDegen.attributes[j].value = 'Super Human'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Body' && updatedDegen.attributes[j].value === 'Zombie'){
+                        updatedDegen.attributes[j].value = 'Undead'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Body' && updatedDegen.attributes[j].value === 'Android'){
+                        updatedDegen.attributes[j].value = 'AI'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Eyes' && updatedDegen.attributes[j].value === 'Blazed'){
+                        updatedDegen.attributes[j].value = 'Baked'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Eyes' && updatedDegen.attributes[j].value === 'DEGEN'){
+                        updatedDegen.attributes[j].value = 'Degenerate'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Eyes' && updatedDegen.attributes[j].value === 'VR Goggles'){
+                        updatedDegen.attributes[j].value = 'Metaverse'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Eyes' && updatedDegen.attributes[j].value === 'WUT'){
+                        updatedDegen.attributes[j].value = 'Serious'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Head' && updatedDegen.attributes[j].value === 'Crown'){
+                        updatedDegen.attributes[j].value = 'Royal'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Head' && updatedDegen.attributes[j].value === 'Seaman Hat'){
+                        updatedDegen.attributes[j].value = 'Sailor'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Mouth' && updatedDegen.attributes[j].value === 'Cigar'){
+                        updatedDegen.attributes[j].value = 'Stoagie'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Neck' && updatedDegen.attributes[j].value === 'Bone Tooth'){
+                        updatedDegen.attributes[j].value = 'Sabretooth'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Torso' && updatedDegen.attributes[j].value === "Doctor's Coat"){
+                        updatedDegen.attributes[j].value = 'Surgeon'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Torso' && updatedDegen.attributes[j].value === 'Knight'){
+                        updatedDegen.attributes[j].value = 'Imperator'
+                    }
+                    
+                }
                 goodDegens.push(updatedDegen)
                 counter++
             }
-            console.log(goodDegens)
+            // console.log(goodDegens)
+            // create new _metadata.json file for all to live in
         }
     })
 }
