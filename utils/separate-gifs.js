@@ -262,14 +262,21 @@ const reIdMetadata = () => {
                     }
                     
                 }
-                //create new file for updated degen to live in
-                console.log(`${basePath}/gifs/degens/${degens[i].edition}.gif`)
+
+                // Copy updated degen GIF to build/images folder
+                // WORKS!
+                // fs.copyFile(`${basePath}/gifs/degens/${degens[i].edition}.gif`, `${basePath}/build/images/${updatedDegen.edition}.gif`, fs.constants.COPYFILE_EXCL, (err) => {
+                //     if(err) console.error(err)
+                // })
+
+
+                console.log(`${basePath}/gifs/degenMetadata/${degens[i].edition}.json`)
                 console.log(updatedDegen.edition)
-                console.log(`${basePath}/build/images/${updatedDegen.edition}.gif`)
-                fs.copyFile(`${basePath}/gifs/degens/${degens[i].edition}.gif`, `${basePath}/build/images/${updatedDegen.edition}.gif`, fs.constants.COPYFILE_EXCL, (err) => {
-                    if(err) console.error(err)
-                })
-                // fs.copyFile(`${basePath}/gifs/metadata/${degens[i].edition}.json`, `${basePath}/gifs/degenMetadata/${degens[i].edition}.json`, fs.constants.COPYFILE_EXCL, (err) => {
+                console.log(`${basePath}/build/json/${updatedDegen.edition}.json`)
+
+                // WRITE new updated degen JSON to build/json folder
+                // WORKS!
+                // fs.writeFile(`${basePath}/build/json/${updatedDegen.edition}.json`, JSON.stringify(updatedDegen), (err) => {
                 //     if(err) console.error(err)
                 // })
                 
