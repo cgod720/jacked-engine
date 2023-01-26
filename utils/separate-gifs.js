@@ -218,7 +218,7 @@ const reIdMetadata = () => {
             const degens = JSON.parse(data)
             const goodDegens = []
             let counter = 9652
-            for (let i = 0; i < 1; i++) {
+            for (let i = 0; i < degens.length; i++) {
                 
                 // console.log(degens[i])
                 const updatedDegen = { ...degens[i] }
@@ -279,9 +279,9 @@ const reIdMetadata = () => {
 
                 // Copy updated degen GIF to build/images folder
                 // WORKS!
-                // fs.copyFile(`${basePath}/gifs/degens/${degens[i].edition}.gif`, `${basePath}/build/images/${updatedDegen.edition}.gif`, fs.constants.COPYFILE_EXCL, (err) => {
-                //     if(err) console.error(err)
-                // })
+                fs.copyFile(`${basePath}/gifs/degens/${degens[i].edition}.gif`, `${basePath}/build/images/${updatedDegen.edition}.gif`, fs.constants.COPYFILE_EXCL, (err) => {
+                    if(err) console.error(err)
+                })
 
 
                 console.log(`${basePath}/gifs/degenMetadata/${degens[i].edition}.json`)
@@ -290,9 +290,9 @@ const reIdMetadata = () => {
 
                 // WRITE new updated degen JSON to build/json folder
                 // WORKS!
-                // fs.writeFile(`${basePath}/build/json/${updatedDegen.edition}.json`, JSON.stringify(updatedDegen), (err) => {
-                //     if(err) console.error(err)
-                // })
+                fs.writeFile(`${basePath}/build/json/${updatedDegen.edition}.json`, JSON.stringify(updatedDegen), (err) => {
+                    if(err) console.error(err)
+                })
                 
                 goodDegens.push(updatedDegen)
                 counter++
@@ -304,3 +304,7 @@ const reIdMetadata = () => {
 }
 
 reIdMetadata()
+
+
+// Write a function to iterate over all of the JSON files for entire collection and update trait names up to 9652 and create new JSON files for each one in a new folder that will then replace build/json
+// Create new _metadata file with ALL of the metadata for 10k JackedDegenerates by iterating over every file and adding its contents to a new file
