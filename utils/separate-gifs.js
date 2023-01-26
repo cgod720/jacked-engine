@@ -218,7 +218,7 @@ const reIdMetadata = () => {
             const degens = JSON.parse(data)
             const goodDegens = []
             let counter = 9652
-            for (let i = 0; i <= degens.length; i++) {
+            for (let i = 0; i < 1; i++) {
                 
                 // console.log(degens[i])
                 const updatedDegen = { ...degens[i] }
@@ -262,6 +262,17 @@ const reIdMetadata = () => {
                     }
                     
                 }
+                //create new file for updated degen to live in
+                console.log(`${basePath}/gifs/degens/${degens[i].edition}.gif`)
+                console.log(updatedDegen.edition)
+                console.log(`${basePath}/build/images/${updatedDegen.edition}.gif`)
+                fs.copyFile(`${basePath}/gifs/degens/${degens[i].edition}.gif`, `${basePath}/build/images/${updatedDegen.edition}.gif`, fs.constants.COPYFILE_EXCL, (err) => {
+                    if(err) console.error(err)
+                })
+                // fs.copyFile(`${basePath}/gifs/metadata/${degens[i].edition}.json`, `${basePath}/gifs/degenMetadata/${degens[i].edition}.json`, fs.constants.COPYFILE_EXCL, (err) => {
+                //     if(err) console.error(err)
+                // })
+                
                 goodDegens.push(updatedDegen)
                 counter++
             }
