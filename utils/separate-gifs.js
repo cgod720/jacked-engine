@@ -259,6 +259,20 @@ const reIdMetadata = () => {
                         updatedDegen.attributes[j].value = 'Surgeon'
                     } else if(updatedDegen.attributes[j].trait_type === 'Torso' && updatedDegen.attributes[j].value === 'Knight'){
                         updatedDegen.attributes[j].value = 'Imperator'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Head' && updatedDegen.attributes[j].value === 'Captains Hat'){
+                        updatedDegen.attributes[j].value = 'Captain'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Head' && updatedDegen.attributes[j].value === 'Cowboy Hat'){
+                        updatedDegen.attributes[j].value = 'Cowboy'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Background' && updatedDegen.attributes[j].value === 'Punkscape 794'){
+                        updatedDegen.attributes[j].value = 'Scape 794'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Background' && updatedDegen.attributes[j].value === 'Punkscape 5457'){
+                        updatedDegen.attributes[j].value = 'Scape 5457'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Facial Hair' && updatedDegen.attributes[j].value === 'Black Moustache'){
+                        updatedDegen.attributes[j].value = 'Black Stache'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Facial Hair' && updatedDegen.attributes[j].value === 'Blonde Moustache'){
+                        updatedDegen.attributes[j].value = 'Blonde Stache'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Facial Hair' && updatedDegen.attributes[j].value === 'Brown Moustache'){
+                        updatedDegen.attributes[j].value = 'Brown Stache'
                     }
                     
                 }
