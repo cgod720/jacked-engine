@@ -202,5 +202,40 @@ const listTraitNames = () => {
 
 // separate()
 // length()
-filterGifs()
+// filterGifs()
 // listTraitNames()
+//renameTraits
+// mergeMetadata
+
+
+// First open degenMetadata, start at 9652
+// Re-id each degen starting at 9652 in _metadata file, copy object to new location. Copy Image file to new location w same ID number .json
+
+const reIdMetadata = () => {
+    fs.readFile(`${basePath}/gifs/degenMetadata/_metadata.json`, 'utf8', (err, data) => {
+        if(err) console.log(err)
+        else {
+            const degens = JSON.parse(data)
+            const goodDegens = []
+            let counter = 9652
+            for (let i = 0; i <= 10; i++) {
+                
+                // console.log(degens[i])
+                const updatedDegen = { ...degens[i] }
+                updatedDegen.name = `Jacked Degenerate #${counter}`
+                updatedDegen.description = `Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures`
+                updatedDegen.attributes.pop()
+                updatedDegen.edition = counter
+                updatedDegen.image = `ipfs://NewUriToReplace/${counter}.gif`
+                // if(counter === 9662){
+                //     console.log(updatedDegen)
+                // }
+                goodDegens.push(updatedDegen)
+                counter++
+            }
+            console.log(goodDegens)
+        }
+    })
+}
+
+reIdMetadata()
