@@ -306,7 +306,8 @@ const reIdMetadata = () => {
 
 // Write a function to iterate over all of the JSON files for entire collection and update trait names up to 9652 and create new JSON files for each one in a new folder that will then replace build/json
 // Create new _metadata file with ALL of the metadata for 10k JackedDegenerates by iterating over every file and adding its contents to a new file
-const renameTraits4Collection = () => {
+
+const renameTraits4Collection = async () => {
     fs.readFile(`${buildDir}/_metadata.json`, (err, data) => {
         if (err) console.log(err)
         else {
@@ -363,30 +364,48 @@ const renameTraits4Collection = () => {
                 }
                 return updatedDegen
             })
-            console.log(updatedDegens.length)
-            // Create _metadata file from updatedDegens
+            // console.log(updatedDegens)
+
             // Add 349 gifs to updatedDegens
             //
             fs.readdir(`${basePath}/build/json`, (err, data) => {
                 if (err) {
                     console.log(err)
                 } else {
-                    for (let i = 9652; i < data.length; i++) {
-                        console.log(data[i])
-                        
-                    }
+                    // Iterate over files
+                    data.forEach((file) => {
+                        // If file is not giant metadata file && file.split('.')[0] is greater than 9651
+                        if(parseInt(file.split('.')[0]) > 9651){
+                            // console.log(file)
+                            fs.readFile(`${basePath}/build/json/${file}`, 'utf8', (err, data) => {
+                                if(err) console.log(err)
+                                else {
+                                    // console.log(JSON.parse(data))
+                                    updatedDegens.push(JSON.parse(data))
+                                    // console.log(updatedDegens.length)
+                                    if(updatedDegens.length === 9998){
+                                        console.log(updatedDegens.length, 'heyyo')
+                                        // Create _metadata file from updatedDegens
+
+                                        fs.writeFile(`${basePath}/build/_metadata.json`, JSON.stringify(updatedDegens), (err) => {
+                                                    if(err) console.error(err)
+                                                })
+                                    }
+                                }
+                            })
+                        }
+                    })
+                    // console.log(data)
                 }
             })
-
             // Create function to read and iterate over new _metadata file and create individual JSON files for each degen in a new folder.
             // Delete old folder, rename new folder to build/json
             // Add in custom JackedDegens for Sergei and myself(prototype) at after shuffle, in the front. Swap #1 and #2 to be #9999 & #10000
-            // fs.writeFile(`${basePath}/build/_metadata.json`, JSON.stringify(updatedDegens), (err) => {
-            //     if(err) console.error(err)
-            // })
         }
     })
 }
 
 
 renameTraits4Collection()
+
+
