@@ -406,6 +406,27 @@ const renameTraits4Collection = async () => {
 }
 
 
-renameTraits4Collection()
+// renameTraits4Collection()
+
+// Generate new individual JSON metadata files for each degen
+const genNewJSONFiles = () => {
+    fs.readFile(`${basePath}/build/_metadata.json`, (err, data) => {
+        if (err) console.log(err)
+        else {
+            // Sort data to be in order by edition number
+            const sortedDegens = JSON.parse(data).sort((a, b) => a.edition - b.edition)
+
+            // Iterate over sortedDegens and create file for each
+            sortedDegens.forEach((degen, i) => {
+                fs.writeFile(`${basePath}/build/newJSON/${i + 1}.json`, JSON.stringify(degen, null, 2), (err) => {
+                    if(err)console.log(err)
+                })
+            })   
+            // console.log(`${basePath}/build/newJSON/${1 + 1}.json`)
+        }
+    })
+}
 
 
+
+// genNewJSONFiles()

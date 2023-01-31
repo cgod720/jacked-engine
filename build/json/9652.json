@@ -1,1 +1,14 @@
-{"name":"Jacked Degenerate #9652","description":"Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures","image":"ipfs://NewUriToReplace/9652.gif","dna":"352f2b6638d627682646204352490f09139299ce","edition":9652,"date":1647274282524,"attributes":[{"trait_type":"Legendary","value":"Ghost"}]}
+{
+  "name": "Jacked Degenerate #9652",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
+  "image": "ipfs://NewUriToReplace/9652.gif",
+  "dna": "352f2b6638d627682646204352490f09139299ce",
+  "edition": 9652,
+  "date": 1647274282524,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Ghost Chain"
+    }
+  ]
+}

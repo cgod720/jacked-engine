@@ -1,1 +1,46 @@
-{"name":"Jacked Degenerate #9828","description":"Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures","image":"ipfs://NewUriToReplace/9828.gif","dna":"9d329e4f7c40b747f7228ec6b1dd717fce65c723","edition":9828,"date":1647274464243,"attributes":[{"trait_type":"Background","value":"Greyscale"},{"trait_type":"Body","value":"Light"},{"trait_type":"Accessory","value":"Nothing"},{"trait_type":"Neck","value":"Nothing"},{"trait_type":"Torso","value":"Racer Jacket"},{"trait_type":"Head","value":"Captain"},{"trait_type":"Facial Hair","value":"King James"},{"trait_type":"Eyes","value":"Normal"},{"trait_type":"Mouth","value":"Pipe"}]}
+{
+  "name": "Jacked Degenerate #9828",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
+  "image": "ipfs://NewUriToReplace/9828.gif",
+  "dna": "9d329e4f7c40b747f7228ec6b1dd717fce65c723",
+  "edition": 9828,
+  "date": 1647274464243,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Greyscale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Racer Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Captain"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "King James"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

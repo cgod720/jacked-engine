@@ -1,1 +1,46 @@
-{"name":"Jacked Degenerate #9819","description":"Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures","image":"ipfs://NewUriToReplace/9819.gif","dna":"7be25fabb0294e39b8b71c04d51ca1d969adf846","edition":9819,"date":1647274457987,"attributes":[{"trait_type":"Background","value":"American Flag"},{"trait_type":"Body","value":"Medium"},{"trait_type":"Accessory","value":"Nothing"},{"trait_type":"Neck","value":"Nothing"},{"trait_type":"Torso","value":"Stringer"},{"trait_type":"Head","value":"Ryu"},{"trait_type":"Facial Hair","value":"Black Mountain Man"},{"trait_type":"Eyes","value":"Scouter"},{"trait_type":"Mouth","value":"Nothing"}]}
+{
+  "name": "Jacked Degenerate #9819",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
+  "image": "ipfs://NewUriToReplace/9819.gif",
+  "dna": "7be25fabb0294e39b8b71c04d51ca1d969adf846",
+  "edition": 9819,
+  "date": 1647274457987,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "American Flag"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Stringer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ryu"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Black Mountain Man"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scouter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nothing"
+    }
+  ]
+}

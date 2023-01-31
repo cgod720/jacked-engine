@@ -1,1 +1,42 @@
-{"name":"Jacked Degenerate #9982","description":"Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures","image":"ipfs://NewUriToReplace/9982.gif","dna":"2c1ba49fb85f6ed40f71f894b9778d5f95e964d7","edition":9982,"date":1647274624100,"attributes":[{"trait_type":"Background","value":"Black"},{"trait_type":"Body","value":"Medium"},{"trait_type":"Accessory","value":"Nothing"},{"trait_type":"Neck","value":"Nothing"},{"trait_type":"Torso","value":"Shell Vest"},{"trait_type":"Mask","value":"Tsushima Gold"},{"trait_type":"Head","value":"Skull Cap"},{"trait_type":"Eyes","value":"Pit Vipers"}]}
+{
+  "name": "Jacked Degenerate #9982",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
+  "image": "ipfs://NewUriToReplace/9982.gif",
+  "dna": "2c1ba49fb85f6ed40f71f894b9778d5f95e964d7",
+  "edition": 9982,
+  "date": 1647274624100,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Shell Vest"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Tsushima Gold"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Skull Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pit Vipers"
+    }
+  ]
+}

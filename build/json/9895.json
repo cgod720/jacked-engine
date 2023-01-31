@@ -1,1 +1,46 @@
-{"name":"Jacked Degenerate #9895","description":"Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures","image":"ipfs://NewUriToReplace/9895.gif","dna":"d93617e6017436cc5840ace330f84047246e58aa","edition":9895,"date":1647274490007,"attributes":[{"trait_type":"Background","value":"Eden"},{"trait_type":"Body","value":"Dark"},{"trait_type":"Accessory","value":"Tribal"},{"trait_type":"Neck","value":"Sabretooth"},{"trait_type":"Torso","value":"Open Suit"},{"trait_type":"Head","value":"Fresh Fade"},{"trait_type":"Facial Hair","value":"Extended Goatee"},{"trait_type":"Eyes","value":"Doom"},{"trait_type":"Mouth","value":"Cigarette"}]}
+{
+  "name": "Jacked Degenerate #9895",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
+  "image": "ipfs://NewUriToReplace/9895.gif",
+  "dna": "d93617e6017436cc5840ace330f84047246e58aa",
+  "edition": 9895,
+  "date": 1647274490007,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eden"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Sabretooth"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Open Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fresh Fade"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Extended Goatee"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

@@ -1,1 +1,46 @@
-{"name":"Jacked Degenerate #9794","description":"Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures","image":"ipfs://NewUriToReplace/9794.gif","dna":"1915906f436540c7edf476468289e1229e144bd6","edition":9794,"date":1647274440758,"attributes":[{"trait_type":"Background","value":"Black"},{"trait_type":"Body","value":"Medium"},{"trait_type":"Accessory","value":"Nothing"},{"trait_type":"Neck","value":"Dog Tags"},{"trait_type":"Torso","value":"Off Duty"},{"trait_type":"Head","value":"Combover"},{"trait_type":"Facial Hair","value":"Black Full Beard2"},{"trait_type":"Eyes","value":"Normal"},{"trait_type":"Mouth","value":"Toothpick"}]}
+{
+  "name": "Jacked Degenerate #9794",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
+  "image": "ipfs://NewUriToReplace/9794.gif",
+  "dna": "1915906f436540c7edf476468289e1229e144bd6",
+  "edition": 9794,
+  "date": 1647274440758,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Dog Tags"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Off Duty"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Combover"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Black Full Beard2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Toothpick"
+    }
+  ]
+}

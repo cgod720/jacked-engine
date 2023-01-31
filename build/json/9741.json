@@ -1,1 +1,46 @@
-{"name":"Jacked Degenerate #9741","description":"Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures","image":"ipfs://NewUriToReplace/9741.gif","dna":"b9d708e7e2b288a77fc549410a686558cfa4b70d","edition":9741,"date":1647274383789,"attributes":[{"trait_type":"Background","value":"Greyscale"},{"trait_type":"Body","value":"Super Human"},{"trait_type":"Accessory","value":"Nothing"},{"trait_type":"Neck","value":"Gold Chain"},{"trait_type":"Torso","value":"Black T"},{"trait_type":"Head","value":"Red Beanie"},{"trait_type":"Facial Hair","value":"Rugged"},{"trait_type":"Eyes","value":"Laser Eyes"},{"trait_type":"Mouth","value":"Nothing"}]}
+{
+  "name": "Jacked Degenerate #9741",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
+  "image": "ipfs://NewUriToReplace/9741.gif",
+  "dna": "b9d708e7e2b288a77fc549410a686558cfa4b70d",
+  "edition": 9741,
+  "date": 1647274383789,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Greyscale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Super Human"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Black T"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Beanie"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Rugged"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nothing"
+    }
+  ]
+}

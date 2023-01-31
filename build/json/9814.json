@@ -1,1 +1,46 @@
-{"name":"Jacked Degenerate #9814","description":"Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures","image":"ipfs://NewUriToReplace/9814.gif","dna":"51e37bd9b914398120256bdec28caf846ff2807b","edition":9814,"date":1647274453416,"attributes":[{"trait_type":"Background","value":"Scape 5457"},{"trait_type":"Body","value":"Medium"},{"trait_type":"Accessory","value":"Nothing"},{"trait_type":"Neck","value":"Nothing"},{"trait_type":"Torso","value":"Black Stringer"},{"trait_type":"Head","value":"Sushi"},{"trait_type":"Facial Hair","value":"Red Beard"},{"trait_type":"Eyes","value":"Eye Patch"},{"trait_type":"Mouth","value":"Toothpick"}]}
+{
+  "name": "Jacked Degenerate #9814",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
+  "image": "ipfs://NewUriToReplace/9814.gif",
+  "dna": "51e37bd9b914398120256bdec28caf846ff2807b",
+  "edition": 9814,
+  "date": 1647274453416,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scape 5457"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Black Stringer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Red Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Toothpick"
+    }
+  ]
+}

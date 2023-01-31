@@ -1,1 +1,46 @@
-{"name":"Jacked Degenerate #9666","description":"Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures","image":"ipfs://NewUriToReplace/9666.gif","dna":"e898733dddb846a630c1c0394e73ca5d407dbca1","edition":9666,"date":1647274292815,"attributes":[{"trait_type":"Background","value":"Retro Squares"},{"trait_type":"Body","value":"Medium"},{"trait_type":"Accessory","value":"Airpods"},{"trait_type":"Neck","value":"Nothing"},{"trait_type":"Torso","value":"Stringer"},{"trait_type":"Head","value":"Frohawk"},{"trait_type":"Facial Hair","value":"Extended Goatee"},{"trait_type":"Eyes","value":"Serious"},{"trait_type":"Mouth","value":"Pipe"}]}
+{
+  "name": "Jacked Degenerate #9666",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
+  "image": "ipfs://NewUriToReplace/9666.gif",
+  "dna": "e898733dddb846a630c1c0394e73ca5d407dbca1",
+  "edition": 9666,
+  "date": 1647274292815,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Retro Squares"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Airpods"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Stringer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frohawk"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Extended Goatee"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Serious"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

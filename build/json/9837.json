@@ -1,1 +1,46 @@
-{"name":"Jacked Degenerate #9837","description":"Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures","image":"ipfs://NewUriToReplace/9837.gif","dna":"6201484b3a1078f65579b664d67e9f08e9acc178","edition":9837,"date":1647274466536,"attributes":[{"trait_type":"Background","value":"Black"},{"trait_type":"Body","value":"Light"},{"trait_type":"Accessory","value":"Nothing"},{"trait_type":"Neck","value":"Nothing"},{"trait_type":"Torso","value":"Sleeveless Hoodie"},{"trait_type":"Head","value":"Nukem"},{"trait_type":"Facial Hair","value":"Nothing"},{"trait_type":"Eyes","value":"Doom"},{"trait_type":"Mouth","value":"Joint"}]}
+{
+  "name": "Jacked Degenerate #9837",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
+  "image": "ipfs://NewUriToReplace/9837.gif",
+  "dna": "6201484b3a1078f65579b664d67e9f08e9acc178",
+  "edition": 9837,
+  "date": 1647274466536,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Sleeveless Hoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Nukem"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doom"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    }
+  ]
+}

@@ -1,1 +1,42 @@
-{"name":"Jacked Degenerate #9987","description":"Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures","image":"ipfs://NewUriToReplace/9987.gif","dna":"48a253965e68356bcf1e73eebd8bcda0e1c6edaa","edition":9987,"date":1647274630401,"attributes":[{"trait_type":"Background","value":"Scape 5457"},{"trait_type":"Body","value":"Undead"},{"trait_type":"Accessory","value":"Nothing"},{"trait_type":"Neck","value":"Nothing"},{"trait_type":"Torso","value":"Stringer"},{"trait_type":"Mask","value":"Bandana"},{"trait_type":"Head","value":"Mullet"},{"trait_type":"Eyes","value":"Pit Vipers"}]}
+{
+  "name": "Jacked Degenerate #9987",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
+  "image": "ipfs://NewUriToReplace/9987.gif",
+  "dna": "48a253965e68356bcf1e73eebd8bcda0e1c6edaa",
+  "edition": 9987,
+  "date": 1647274630401,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scape 5457"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Stringer"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mullet"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pit Vipers"
+    }
+  ]
+}

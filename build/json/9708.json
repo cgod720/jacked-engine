@@ -1,1 +1,46 @@
-{"name":"Jacked Degenerate #9708","description":"Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures","image":"ipfs://NewUriToReplace/9708.gif","dna":"db67877e20a1ed995a27398ebb7146fd206df557","edition":9708,"date":1647274331087,"attributes":[{"trait_type":"Background","value":"Retro Squares"},{"trait_type":"Body","value":"Medium"},{"trait_type":"Accessory","value":"Nothing"},{"trait_type":"Neck","value":"Nothing"},{"trait_type":"Torso","value":"Chain Weights"},{"trait_type":"Head","value":"Sailor"},{"trait_type":"Facial Hair","value":"Red Mountain Man"},{"trait_type":"Eyes","value":"Baked"},{"trait_type":"Mouth","value":"Joint"}]}
+{
+  "name": "Jacked Degenerate #9708",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
+  "image": "ipfs://NewUriToReplace/9708.gif",
+  "dna": "db67877e20a1ed995a27398ebb7146fd206df557",
+  "edition": 9708,
+  "date": 1647274331087,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Retro Squares"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Chain Weights"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Red Mountain Man"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Baked"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    }
+  ]
+}

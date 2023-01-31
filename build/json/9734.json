@@ -1,1 +1,46 @@
-{"name":"Jacked Degenerate #9734","description":"Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures","image":"ipfs://NewUriToReplace/9734.gif","dna":"efcf2f112c4377233a4b426b33dc4c639746d0e7","edition":9734,"date":1647274370416,"attributes":[{"trait_type":"Background","value":"Dark Grey"},{"trait_type":"Body","value":"Light"},{"trait_type":"Accessory","value":"Chest Hair"},{"trait_type":"Neck","value":"Nothing"},{"trait_type":"Torso","value":"Cardigan"},{"trait_type":"Head","value":"Blonde Frohawk"},{"trait_type":"Facial Hair","value":"Fletcher"},{"trait_type":"Eyes","value":"Thug Life"},{"trait_type":"Mouth","value":"Stoagie"}]}
+{
+  "name": "Jacked Degenerate #9734",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
+  "image": "ipfs://NewUriToReplace/9734.gif",
+  "dna": "efcf2f112c4377233a4b426b33dc4c639746d0e7",
+  "edition": 9734,
+  "date": 1647274370416,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Chest Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Cardigan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Frohawk"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Fletcher"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thug Life"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stoagie"
+    }
+  ]
+}

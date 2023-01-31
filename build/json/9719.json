@@ -1,1 +1,46 @@
-{"name":"Jacked Degenerate #9719","description":"Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures","image":"ipfs://NewUriToReplace/9719.gif","dna":"c1d0cbe51950323c846d16ed3462c838d7c7550a","edition":9719,"date":1647274350024,"attributes":[{"trait_type":"Background","value":"Black"},{"trait_type":"Body","value":"Dark"},{"trait_type":"Accessory","value":"Nothing"},{"trait_type":"Neck","value":"Sabretooth"},{"trait_type":"Torso","value":"Cyberpunk Jacket"},{"trait_type":"Head","value":"Fresh Fade"},{"trait_type":"Facial Hair","value":"Nothing"},{"trait_type":"Eyes","value":"Thug Life"},{"trait_type":"Mouth","value":"Joint"}]}
+{
+  "name": "Jacked Degenerate #9719",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
+  "image": "ipfs://NewUriToReplace/9719.gif",
+  "dna": "c1d0cbe51950323c846d16ed3462c838d7c7550a",
+  "edition": 9719,
+  "date": 1647274350024,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Sabretooth"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Cyberpunk Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fresh Fade"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thug Life"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    }
+  ]
+}

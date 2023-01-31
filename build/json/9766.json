@@ -1,1 +1,46 @@
-{"name":"Jacked Degenerate #9766","description":"Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures","image":"ipfs://NewUriToReplace/9766.gif","dna":"f5ff967c34e4ea497275548ff7412eb726b61b8b","edition":9766,"date":1647274414445,"attributes":[{"trait_type":"Background","value":"Eden"},{"trait_type":"Body","value":"Medium"},{"trait_type":"Accessory","value":"Tribal"},{"trait_type":"Neck","value":"Dog Tags"},{"trait_type":"Torso","value":"Flanel"},{"trait_type":"Head","value":"Long Hair"},{"trait_type":"Facial Hair","value":"Fletcher"},{"trait_type":"Eyes","value":"Cyberpunk"},{"trait_type":"Mouth","value":"Nothing"}]}
+{
+  "name": "Jacked Degenerate #9766",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
+  "image": "ipfs://NewUriToReplace/9766.gif",
+  "dna": "f5ff967c34e4ea497275548ff7412eb726b61b8b",
+  "edition": 9766,
+  "date": 1647274414445,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eden"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Dog Tags"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Flanel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long Hair"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Fletcher"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nothing"
+    }
+  ]
+}

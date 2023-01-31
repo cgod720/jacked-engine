@@ -1,1 +1,46 @@
-{"name":"Jacked Degenerate #9691","description":"Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures","image":"ipfs://NewUriToReplace/9691.gif","dna":"a1bb43fc59f50257871ecbd316777c7d0c70fbc4","edition":9691,"date":1647274316551,"attributes":[{"trait_type":"Background","value":"Black"},{"trait_type":"Body","value":"Undead"},{"trait_type":"Accessory","value":"Chest Hair"},{"trait_type":"Neck","value":"Nothing"},{"trait_type":"Torso","value":"Metal Arm"},{"trait_type":"Head","value":"Purple Bandana"},{"trait_type":"Facial Hair","value":"Black Beard"},{"trait_type":"Eyes","value":"Aviators"},{"trait_type":"Mouth","value":"Toothpick"}]}
+{
+  "name": "Jacked Degenerate #9691",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
+  "image": "ipfs://NewUriToReplace/9691.gif",
+  "dna": "a1bb43fc59f50257871ecbd316777c7d0c70fbc4",
+  "edition": 9691,
+  "date": 1647274316551,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Chest Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Metal Arm"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Bandana"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Black Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviators"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Toothpick"
+    }
+  ]
+}
