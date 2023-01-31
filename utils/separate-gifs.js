@@ -176,14 +176,14 @@ const filterGifs = () => {
 
 // let allTraits
 const listTraitNames = () => {
-    fs.readFile(`${basePath}/gifs/metadata/_metadata.json`, 'utf8', (err, data) => {
+    fs.readFile(`${basePath}/build/json/_metadata.json`, 'utf8', (err, data) => {
         if(err) console.log(err)
         else {
             const degens = JSON.parse(data)
             const traits = []
             degens.forEach((degen) => {
                 for (const attr of degen.attributes) {
-                    if(attr.trait_type === 'Eyes'){
+                    if(attr.trait_type === 'Facial Hair'){
                          if(!traits.includes(attr.value)){
                         
                         // console.log(attr)
@@ -204,8 +204,6 @@ const listTraitNames = () => {
 // length()
 // filterGifs()
 // listTraitNames()
-//renameTraits
-// mergeMetadata
 
 
 // First open degenMetadata, start at 9652
@@ -303,8 +301,92 @@ const reIdMetadata = () => {
     })
 }
 
-reIdMetadata()
+// reIdMetadata()
 
 
 // Write a function to iterate over all of the JSON files for entire collection and update trait names up to 9652 and create new JSON files for each one in a new folder that will then replace build/json
 // Create new _metadata file with ALL of the metadata for 10k JackedDegenerates by iterating over every file and adding its contents to a new file
+const renameTraits4Collection = () => {
+    fs.readFile(`${buildDir}/_metadata.json`, (err, data) => {
+        if (err) console.log(err)
+        else {
+            // console.log(JSON.parse(data)[0])
+            const updatedDegens = JSON.parse(data).map((degen) => {
+                const updatedDegen = { ...degen }
+
+
+
+                for (let j = 0; j < updatedDegen.attributes.length; j++) {
+                    
+                    // console.log(updatedDegen.attributes[j])
+                    if(updatedDegen.attributes[j].trait_type === 'Body' && updatedDegen.attributes[j].value === 'Alien'){
+                        updatedDegen.attributes[j].value = 'Super Human'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Body' && updatedDegen.attributes[j].value === 'Zombie'){
+                        updatedDegen.attributes[j].value = 'Undead'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Body' && updatedDegen.attributes[j].value === 'Android'){
+                        updatedDegen.attributes[j].value = 'AI'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Eyes' && updatedDegen.attributes[j].value === 'Blazed'){
+                        updatedDegen.attributes[j].value = 'Baked'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Eyes' && updatedDegen.attributes[j].value === 'DEGEN'){
+                        updatedDegen.attributes[j].value = 'Degenerate'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Eyes' && updatedDegen.attributes[j].value === 'VR Goggles'){
+                        updatedDegen.attributes[j].value = 'Metaverse'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Eyes' && updatedDegen.attributes[j].value === 'WUT'){
+                        updatedDegen.attributes[j].value = 'Serious'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Head' && updatedDegen.attributes[j].value === 'Crown'){
+                        updatedDegen.attributes[j].value = 'Royal'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Head' && updatedDegen.attributes[j].value === 'Seaman Hat'){
+                        updatedDegen.attributes[j].value = 'Sailor'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Mouth' && updatedDegen.attributes[j].value === 'Cigar'){
+                        updatedDegen.attributes[j].value = 'Stoagie'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Neck' && updatedDegen.attributes[j].value === 'Bone Tooth'){
+                        updatedDegen.attributes[j].value = 'Sabretooth'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Torso' && updatedDegen.attributes[j].value === "Doctor's Coat"){
+                        updatedDegen.attributes[j].value = 'Surgeon'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Torso' && updatedDegen.attributes[j].value === 'Knight'){
+                        updatedDegen.attributes[j].value = 'Imperator'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Head' && updatedDegen.attributes[j].value === 'Captains Hat'){
+                        updatedDegen.attributes[j].value = 'Captain'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Head' && updatedDegen.attributes[j].value === 'Cowboy Hat'){
+                        updatedDegen.attributes[j].value = 'Cowboy'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Background' && updatedDegen.attributes[j].value === 'Punkscape 794'){
+                        updatedDegen.attributes[j].value = 'Scape 794'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Background' && updatedDegen.attributes[j].value === 'Punkscape 5457'){
+                        updatedDegen.attributes[j].value = 'Scape 5457'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Facial Hair' && updatedDegen.attributes[j].value === 'Black Moustache'){
+                        updatedDegen.attributes[j].value = 'Black Stache'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Facial Hair' && updatedDegen.attributes[j].value === 'Blonde Moustache'){
+                        updatedDegen.attributes[j].value = 'Blonde Stache'
+                    } else if(updatedDegen.attributes[j].trait_type === 'Facial Hair' && updatedDegen.attributes[j].value === 'Brown Moustache'){
+                        updatedDegen.attributes[j].value = 'Brown Stache'
+                    }
+                }
+                return updatedDegen
+            })
+            console.log(updatedDegens.length)
+            // Create _metadata file from updatedDegens
+            // Add 349 gifs to updatedDegens
+            //
+            fs.readdir(`${basePath}/build/json`, (err, data) => {
+                if (err) {
+                    console.log(err)
+                } else {
+                    for (let i = 9652; i < data.length; i++) {
+                        console.log(data[i])
+                        
+                    }
+                }
+            })
+
+            // Create function to read and iterate over new _metadata file and create individual JSON files for each degen in a new folder.
+            // Delete old folder, rename new folder to build/json
+            // Add in custom JackedDegens for Sergei and myself(prototype) at after shuffle, in the front. Swap #1 and #2 to be #9999 & #10000
+            // fs.writeFile(`${basePath}/build/_metadata.json`, JSON.stringify(updatedDegens), (err) => {
+            //     if(err) console.error(err)
+            // })
+        }
+    })
+}
+
+
+renameTraits4Collection()

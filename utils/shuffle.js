@@ -31,8 +31,8 @@ const shuffle = () => {
                     // Update URI to have appropriate extension
                     newArr[i][0].image = `ipfs://NewUriToReplace/${i + 1}.gif`
                     newArr[i][0].attributes.push({
-                        "trait_type": "Animated",
-                        "value": "True"
+                        "trait_type": "Type",
+                        "value": "GIF"
                     })
 
                 } else {
@@ -41,8 +41,8 @@ const shuffle = () => {
                     })
 
                     newArr[i][0].attributes.push({
-                        "trait_type": "Animated",
-                        "value": "False"
+                        "trait_type": "Type",
+                        "value": "PNG"
                     })
                     newArr[i][0].image = `ipfs://NewUriToReplace/${i + 1}.png`
 
@@ -50,7 +50,7 @@ const shuffle = () => {
 
                 // Update metadata to be in order
                 //--------------------------------------------------------
-                newArr[i][0].name = `CryptoHunkz #${i + 1}`
+                newArr[i][0].name = `Jacked Degenerate #${i + 1}`
                 newArr[i][0].edition = i + 1
                 // -------------------------------------------------------
 
