@@ -1,0 +1,50 @@
+{
+  "name": "Jacked Degenerate #486",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
+  "image": "ipfs://NewUriToReplace/486.png",
+  "dna": "0ee44b9c13af92a563937a64b674740fe4e265d2",
+  "edition": 486,
+  "date": 1670285307716,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Biomechanical Tattoo"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Cyberpunk Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ryu"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Blonde Stache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X Ray"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Type",
+      "value": "PNG"
+    }
+  ]
+}

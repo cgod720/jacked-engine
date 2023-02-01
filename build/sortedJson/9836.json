@@ -1,0 +1,50 @@
+{
+  "name": "Jacked Degenerate #9836",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
+  "image": "ipfs://NewUriToReplace/9836.png",
+  "dna": "3611244c2567af5dfc787f5dc574b09904b7d377",
+  "edition": 9836,
+  "date": 1670285444268,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Greyscale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AI"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Dog Tags"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Executive"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking Helm"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Blonde Full Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Toothpick"
+    },
+    {
+      "trait_type": "Type",
+      "value": "PNG"
+    }
+  ]
+}

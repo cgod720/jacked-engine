@@ -1,0 +1,50 @@
+{
+  "name": "Jacked Degenerate #404",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
+  "image": "ipfs://NewUriToReplace/404.png",
+  "dna": "f133b185c853e191836b5903906b4c42a4ac6c23",
+  "edition": 404,
+  "date": 1670285283496,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Retro Squares"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Beanie"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Black Stache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Metaverse"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stoagie"
+    },
+    {
+      "trait_type": "Type",
+      "value": "PNG"
+    }
+  ]
+}

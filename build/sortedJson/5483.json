@@ -1,0 +1,50 @@
+{
+  "name": "Jacked Degenerate #5483",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
+  "image": "ipfs://NewUriToReplace/5483.png",
+  "dna": "2bcb21d76e95bbec7833e5067d543e5e20630f90",
+  "edition": 5483,
+  "date": 1670285042017,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scape 794"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Shell Vest"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Jackson"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Brown Mountain Man"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stoagie"
+    },
+    {
+      "trait_type": "Type",
+      "value": "PNG"
+    }
+  ]
+}

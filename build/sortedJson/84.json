@@ -1,0 +1,50 @@
+{
+  "name": "Jacked Degenerate #84",
+  "description": "Jacked Degenerates is a collection of 10K premier, highly detailed pixelated profile pictures",
+  "image": "ipfs://NewUriToReplace/84.png",
+  "dna": "9d655d3a18478a734e5e9eca6d8e006cb98e9952",
+  "edition": 84,
+  "date": 1670285044068,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scape 5457"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Nothing"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "Chain Weights"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Logan"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Black Goatee"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Frames"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Toothpick"
+    },
+    {
+      "trait_type": "Type",
+      "value": "PNG"
+    }
+  ]
+}

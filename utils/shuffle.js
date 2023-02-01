@@ -55,7 +55,7 @@ const shuffle = () => {
                 // -------------------------------------------------------
 
                 // Create individual JSON files w new metadata
-                fs.writeFile(`${basePath}/build/sortedJson/${newArr[i][0].edition}.json`, JSON.stringify(newArr[i][0]), 'utf8', (err) => {
+                fs.writeFile(`${basePath}/build/sortedJson/${newArr[i][0].edition}.json`, JSON.stringify(newArr[i][0], null, 2), 'utf8', (err) => {
                     if(err) console.log(err)
                 })
 
