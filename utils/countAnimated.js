@@ -23,8 +23,8 @@ fs.readdir('/Users/carlosgodoy/Documents/projects/cryptohunkz-static-engine/buil
                 pngs++
             }
         })
-        console.log(gifs)
-        console.log(pngs)
+        console.log("gifs", gifs)
+        console.log("pngs", pngs)
 
 
 
@@ -46,7 +46,7 @@ fs.readdir('/Users/carlosgodoy/Documents/projects/cryptohunkz-static-engine/buil
 })
 
 
-fs.readFile('/Users/carlosgodoy/Documents/projects/cryptohunkz-static-engine/gifs/degenMetadata/_metadata.json', "utf8", (err, data) => {
+fs.readFile('/Users/carlosgodoy/Documents/projects/cryptohunkz-static-engine/build/json/_metadata.json', "utf8", (err, data) => {
     if(err) console.log(err)
     else {
         const parsed = JSON.parse(data)
