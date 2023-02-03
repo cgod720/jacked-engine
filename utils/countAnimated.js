@@ -2,7 +2,7 @@ const fs = require('fs')
 const base = '/Users/carlosgodoy/Documents/projects/cryptohunkz-static-engine'
 
 
-fs.readdir('/Users/carlosgodoy/Documents/projects/cryptohunkz-static-engine/build/images', (err, data) => {
+fs.readdir('/Users/carlosgodoy/Documents/projects/cryptohunkz-static-engine/build/sortedImages', (err, data) => {
     if (err) {
         console.log(err)
     } else {
@@ -38,7 +38,7 @@ fs.readdir('/Users/carlosgodoy/Documents/projects/cryptohunkz-static-engine/buil
             // console.log(gifArr[i])
             const thePath = `${base}/${gifArr[i]}`
             // console.log(`${thePath.slice(0, 64)}build/images/${gifArr[i]}.png`)
-            if(fs.existsSync(`${thePath.slice(0, 64)}build/images/${gifArr[i]}.png`)){
+            if(fs.existsSync(`${thePath.slice(0, 64)}build/sortedImages/${gifArr[i]}.png`)){
                 console.log(`${thePath.slice(0, 64)}${gifArr[i]}.png`)
             }
         }
@@ -46,7 +46,7 @@ fs.readdir('/Users/carlosgodoy/Documents/projects/cryptohunkz-static-engine/buil
 })
 
 
-fs.readFile('/Users/carlosgodoy/Documents/projects/cryptohunkz-static-engine/build/json/_metadata.json', "utf8", (err, data) => {
+fs.readFile('/Users/carlosgodoy/Documents/projects/cryptohunkz-static-engine/build/sortedJson/_metadata.json', "utf8", (err, data) => {
     if(err) console.log(err)
     else {
         const parsed = JSON.parse(data)
